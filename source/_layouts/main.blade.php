@@ -49,7 +49,7 @@
                     <a href="https://form.feathery.io/to/qx86hL" target="_blank">Submit A Card</a>
                 </li>
                 <li class="m-2 w-1/3 text-center">
-                    Block Everyone. Forever.
+                    Let them eat cake.
                 </li>
                 <li class="m-2 w-1/3 text-right">
                     <a href="https://github.com/blockeveryone/blockeveryone/" target="_blank">Get The Code</a>

@@ -19,17 +19,21 @@ $(document).ready(function()
 {
     let collection = {};
     let currentId = 0;
-    let currentCard = {};
-    let cardsUntilNextLevel = 5;
-    let totalCardsCompleted = 0;
-    let currentLevel = 0;
+    let currentCard = null;
+
+    let save = {
+        cardsUntilNextLevel: 3,
+        totalCardsCompleted: 0,
+        currentLevel: 0,
+        history: [],
+    };
 
     let titles = [
         'Intern',
         'Assistant Regional Manager',
         'Shogun',
         'Maestro',
-        'Archduke',
+        'Warrior',
         'Kingpin',
         'Grand Poobah',
     ];
@@ -52,52 +56,60 @@ $(document).ready(function()
     }
 
     function changeCard() {
+        if (currentCard) {
+            save.history.push(currentCard['Name']);
+        }
         currentId = (Math.floor(Math.random() * collection.length));
         currentCard = collection[currentId];
     }
 
     function updateCard() {
         $("#card-title").html(currentCard["Name"]);
-        console.log(currentCard["Instagram"], currentCard["Instagram"].length, 'instagram');
+        $("#photo").css({'background-image': 'url("https://picsum.photos/seed/'+quickhash(currentCard["Name"])+'/460/700")'});
+
         if (currentCard["Instagram"].length < 3) {
-            $("#instagram").attr('href', '').css({visibility: 'hidden'});
+            $("#instagram").attr('href', '').hide();
         } else {
-            $("#instagram").attr('href', currentCard["Instagram"]).css({visibility: 'visible'});
+            $("#instagram").attr('href', currentCard["Instagram"]).show();
         }
-        console.log(currentCard["Tiktok"], currentCard["Tiktok"].length, 'tiktok');
+
         if (currentCard["Tiktok"].length < 3) {
-            $("#tiktok").html('TikTok (Search)').attr('href', 'https://www.tiktok.com/search/user?q='+currentCard["Name"]).css({visibility: 'visible'});
+            $("#tiktok").html('TikTok (Search)').attr('href', 'https://www.tiktok.com/search/user?q='+currentCard["Name"]).show();
         } else {
-            $("#tiktok").html('TikTok').attr('href', currentCard["Tiktok"]).css({visibility: 'visible'});
+            $("#tiktok").html('TikTok').attr('href', currentCard["Tiktok"]).show();
         }
-        console.log(currentCard["Twitter (X)"], currentCard["Twitter (X)"].length, 'tiktok');
+
         if (currentCard["Twitter (X)"].length < 3) {
-            $("#twitter").attr('href', '').css({visibility: 'hidden'});
+            $("#twitter").attr('href', '').hide();
         } else {
-            $("#twitter").attr('href', currentCard["Twitter (X)"]).css({visibility: 'visible'});
+            $("#twitter").attr('href', currentCard["Twitter (X)"]).show();
         }
-        $("#photo").css({'background-image': 'url("https://picsum.photos/seed/'+quickhash(currentCard["Name"])+'/482/738")'});
     }
 
     function updateInterface() {
-        $("#progress-bar").css({width: percentage(totalCardsCompleted, cardsUntilNextLevel)+"%"});
-        $("#progress-left").html((cardsUntilNextLevel - totalCardsCompleted)+" LEFT");
-        $("#player-rank-icon").attr('src', '/assets/img/rank_'+currentLevel+'.png');
-        $("#player-rank-name").html(titles[currentLevel]+" <small>(LV."+(currentLevel+1)+")</small>");
+        $("#progress-bar").css({width: percentage(save.totalCardsCompleted, save.cardsUntilNextLevel)+"%"});
+        $("#progress-left").html((save.cardsUntilNextLevel - save.totalCardsCompleted)+" LEFT");
+        $("#player-rank-icon").attr('src', '/assets/img/rank_'+save.currentLevel+'.png');
+        $("#player-rank-name").html(titles[save.currentLevel]+" <small>(LV."+(save.currentLevel+1)+")</small>");
     }
 
     function recordProgress() {
-        totalCardsCompleted++;
-        if (totalCardsCompleted >= cardsUntilNextLevel) {
-            cardsUntilNextLevel = cardsUntilNextLevel * 2;
-            totalCardsCompleted = 0;
+        save.totalCardsCompleted++;
+        if (save.totalCardsCompleted >= save.cardsUntilNextLevel) {
+            save.cardsUntilNextLevel = save.cardsUntilNextLevel * 2;
+            save.totalCardsCompleted = 0;
             levelUp();
         }
+        localStorage.setItem("save", JSON.stringify(save));
     }
 
     function levelUp() {
-        alert("leveled up!");
-        currentLevel++;
+        alert("leveled up! show animations");
+        save.currentLevel++;
+    }
+
+    if (localStorage.getItem('save')) {
+        save = JSON.parse(localStorage.getItem('save'));
     }
 
     $.get('/assets/data/list.json', function(data) {
