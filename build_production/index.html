@@ -16,13 +16,13 @@
         <link rel="home" href="https://blockeveryone.com">
         <link rel="icon" href="/favicon.ico">
 
-        <link rel="stylesheet" href="/assets/build/css/main.css?id=72b5afd1973d0be064c1f5390d59345c">
+        <link rel="stylesheet" href="/assets/build/css/main.css?id=9ca8f96d497973fcca58880c5761e79e">
     </head>
 
     <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
-        <header class="flex items-center shadow bg-white border-b h-24 py-4 px-10" role="banner">
-            <div class="container flex items-center justify-between max-w-8xl mx-auto">
-                <div class="flex justify-end items-center">
+        <header class="flex items-center shadow bg-white border-b min-h-24 md:h-24 py-4 px-10" role="banner">
+            <div class="container flex flex-col md:flex-row items-center justify-between max-w-8xl mx-auto">
+                <div class="flex justify-end items-center mb-4 md:mb-0">
                     <img class="h-12 md:h-16 mr-4" src="/assets/img/rank_0.png" id="player-rank-icon">
                     <h2 class="m-0 p-0 text-purple-950" id="player-rank-name">Rookie</h2>
                 </div>
@@ -60,40 +60,40 @@
     </ul>
 </nav>
 
-        <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
-                <div id="gameplay" class="w-full block">
-    </div>
-    <div class="card">
-        <div id="photo" class="photo" style="background-image: url('https://picsum.photos/seed/name/482/738')"></div>
-        <div class="front">
-            <span id='card-title' class="font-bold">Account Name</span>
-            <div class="card-button-wrapper">
-                <a id="instagram" href="#" target="_blank" class="w-full text-center text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 font-medium rounded-full text-sm px-5 py-1 me-2 mb-2">
-                    Instagram
-                </a>
-                <a id="tiktok" href="#" target="_blank" class="w-full text-center text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 font-medium rounded-full text-sm px-5 py-1 me-2 mb-2">
-                    TikTok
-                </a>
-                <a id="twitter" href="#" target="_blank" class="w-full text-center text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 font-medium rounded-full text-sm px-5 py-1 me-2 mb-2">
-                    Twitter
-                </a>
+        <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-0 md:py-16 relative min-h-[640px] md:min-h-[800px]">
+                <div class="card-wrapper">
+        <div class="card">
+            <div id="photo" class="photo" style="background-image: url('https://picsum.photos/seed/name/482/738')"></div>
+            <div class="front">
+                <span id='card-title' class="font-bold">Account Name</span>
+                <div class="card-button-wrapper">
+                    <a id="instagram" href="#" target="_blank" class="w-full text-center text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 font-medium rounded-full text-sm px-5 py-1 me-2 mb-2">
+                        Instagram
+                    </a>
+                    <a id="tiktok" href="#" target="_blank" class="w-full text-center text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 font-medium rounded-full text-sm px-5 py-1 me-2 mb-2">
+                        TikTok
+                    </a>
+                    <a id="twitter" href="#" target="_blank" class="w-full text-center text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 font-medium rounded-full text-sm px-5 py-1 me-2 mb-2">
+                        Twitter
+                    </a>
+                </div>
+                <button id="save-button" class="done-button font-black">
+                    DONE
+                </button>
             </div>
-            <button id="save-button" class="done-button font-black">
-                DONE
-            </button>
         </div>
     </div>
         </main>
 
         <footer class="bg-white text-center text-sm py-4 px-10" role="contentinfo">
-            <ul class="flex md:flex-row justify-evenly list-none max-w-8xl mx-auto">
-                <li class="m-2 w-1/3 text-left">
+            <ul class="flex flex-col md:flex-row justify-evenly list-none max-w-8xl mx-auto">
+                <li class="m-2 w-full md:w-1/3 text-center md:text-left">
                     <a href="https://form.feathery.io/to/qx86hL" target="_blank">Submit A Card</a>
                 </li>
-                <li class="m-2 w-1/3 text-center">
+                <li class="m-2 w-full md:w-1/3 text-center">
                     Let them eat cake.
                 </li>
-                <li class="m-2 w-1/3 text-right">
+                <li class="m-2 w-full md:w-1/3 text-center md:text-right">
                     <a href="https://github.com/blockeveryone/blockeveryone/" target="_blank">Get The Code</a>
                 </li>
             </ul>
