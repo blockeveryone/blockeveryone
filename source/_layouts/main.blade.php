@@ -30,9 +30,9 @@
                 <div class="flex items-center justify-center flex-col min-w-52">
                     <h4 class="m-0 mb-2 p-0 text-sm uppercase font-black">BLOCKS TO NEXT LEVEL</h4>
                     <div class="w-full bg-purple-700 rounded-full h-2.5">
-                        <div class="bg-purple-400 h-2.5 rounded-full" style="width: 45%"></div>
+                        <div class="bg-purple-400 h-2.5 rounded-full" style="width: 0%" id="progress-bar"></div>
                     </div>
-                    <h4 class="m-0 mt-2 p-0 text-sm uppercase font-black">7 LEFT</h4>
+                    <h4 class="m-0 mt-2 p-0 text-sm uppercase font-black" id="progress-left">7 LEFT</h4>
                 </div>
             </div>
         </header>
