@@ -49,7 +49,7 @@
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
             <ul class="flex flex-col md:flex-row justify-center list-none">
                 <li class="md:mr-2">
-                    Block Everyone. Forever.
+                    Block Everyone. Forever. <a href="https://github.com/blockeveryone/blockeveryone/" target="_blank">Get The Code.</a>
                 </li>
             </ul>
         </footer>
