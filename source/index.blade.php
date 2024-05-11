@@ -4,7 +4,7 @@
     <div id="gameplay" class="w-full block">
     </div>
     <div class="card">
-        <img class="photo" src="/assets/img/card-temp.png">
+        <div class="photo" style="background-image: url('/assets/img/card-temp.png')"></div>
         <div class="front">
             <span id='card-title' class="font-bold">Account Name</span>
             <div class="card-button-wrapper">

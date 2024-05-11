@@ -20,8 +20,8 @@
     </head>
 
     <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
-        <header class="flex items-center shadow bg-white border-b h-24 py-4" role="banner">
-            <div class="container flex items-center justify-evenly max-w-8xl mx-auto px-4 lg:px-8">
+        <header class="flex items-center shadow bg-white border-b h-24 py-4 px-10" role="banner">
+            <div class="container flex items-center justify-between max-w-8xl mx-auto">
                 <div class="flex justify-end items-center">
                     <img class="h-12 md:h-16 mr-4" src="/assets/img/rank_0.png" id="player-rank-icon">
                     <h2 class="m-0 p-0 text-purple-950" id="player-rank-name">Rookie</h2>
@@ -43,10 +43,16 @@
             @yield('body')
         </main>
 
-        <footer class="bg-white text-center text-sm py-4" role="contentinfo">
-            <ul class="flex flex-col md:flex-row justify-center list-none">
-                <li class="md:mr-2">
-                    Block Everyone. Forever. <a href="https://github.com/blockeveryone/blockeveryone/" target="_blank">Get The Code.</a>
+        <footer class="bg-white text-center text-sm py-4 px-10" role="contentinfo">
+            <ul class="flex md:flex-row justify-evenly list-none max-w-8xl mx-auto">
+                <li class="m-2 w-1/3 text-left">
+                    <a href="https://form.feathery.io/to/qx86hL" target="_blank">Submit A Card</a>
+                </li>
+                <li class="m-2 w-1/3 text-center">
+                    Block Everyone. Forever.
+                </li>
+                <li class="m-2 w-1/3 text-right">
+                    <a href="https://github.com/blockeveryone/blockeveryone/" target="_blank">Get The Code</a>
                 </li>
             </ul>
         </footer>
