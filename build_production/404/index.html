@@ -16,53 +16,23 @@
         <link rel="home" href="https://blockeveryone.com">
         <link rel="icon" href="/favicon.ico">
 
-        <link rel="stylesheet" href="/assets/build/css/main.css?id=4d15dd48594dd3cecb2d5fa9e9206987">
+        <link rel="stylesheet" href="/assets/build/css/main.css?id=8eabadb79485d1b1dfd951685ef1b1e2">
     </head>
 
     <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
         <header class="flex items-center shadow bg-white border-b h-24 py-4" role="banner">
-            <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
-                <div class="flex items-center">
-                    <a href="/" title="Block Everyone home" class="inline-flex items-center">
-                        <img class="h-8 md:h-10 mr-3" src="/assets/img/logo.svg" alt="Block Everyone logo" />
-
-                        <h1 class="text-lg md:text-2xl text-blue-800 font-semibold hover:text-blue-600 my-0">Block Everyone</h1>
-                    </a>
+            <div class="container flex items-center justify-evenly max-w-8xl mx-auto px-4 lg:px-8">
+                <div class="flex justify-end items-center">
+                    <img class="h-12 md:h-16 mr-4" src="/assets/img/rank_0.png" id="player-rank-icon">
+                    <h2 class="m-0 p-0 text-purple-950" id="player-rank-name">Rookie</h2>
                 </div>
 
-                <div id="vue-search" class="flex flex-1 justify-end items-center">
-                    <search></search>
-
-                    <nav class="hidden lg:flex items-center justify-end text-lg">
-    <a title="Block Everyone Home" href="/"
-       class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Home
-    </a>
-</nav>
-
-<nav class="hidden lg:flex items-center justify-end text-lg">
-    <a title="Block Everyone About" href="/about"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        About
-    </a>
-</nav>
-
-                    <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
-    onclick="navMenu.toggle()"
->
-    <svg id="js-nav-menu-show" xmlns="http://www.w3.org/2000/svg"
-        class="fill-current text-white h-9 w-4" viewBox="0 0 32 32"
-    >
-        <path d="M4,10h24c1.104,0,2-0.896,2-2s-0.896-2-2-2H4C2.896,6,2,6.896,2,8S2.896,10,4,10z M28,14H4c-1.104,0-2,0.896-2,2  s0.896,2,2,2h24c1.104,0,2-0.896,2-2S29.104,14,28,14z M28,22H4c-1.104,0-2,0.896-2,2s0.896,2,2,2h24c1.104,0,2-0.896,2-2  S29.104,22,28,22z"/>
-    </svg>
-
-    <svg id="js-nav-menu-hide" xmlns="http://www.w3.org/2000/svg"
-        class="hidden fill-current text-white h-9 w-4" viewBox="0 0 36 30"
-    >
-        <polygon points="32.8,4.4 28.6,0.2 18,10.8 7.4,0.2 3.2,4.4 13.8,15 3.2,25.6 7.4,29.8 18,19.2 28.6,29.8 32.8,25.6 22.2,15 "/>
-    </svg>
-</button>
-
+                <div class="flex items-center justify-center flex-col min-w-52">
+                    <h4 class="m-0 mb-2 p-0 text-sm uppercase font-black">BLOCKS TO NEXT LEVEL</h4>
+                    <div class="w-full bg-purple-700 rounded-full h-2.5">
+                        <div class="bg-purple-400 h-2.5 rounded-full" style="width: 45%"></div>
+                    </div>
+                    <h4 class="m-0 mt-2 p-0 text-sm uppercase font-black">7 LEFT</h4>
                 </div>
             </div>
         </header>
@@ -97,26 +67,15 @@
     </div>
         </main>
 
-        <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
+        <footer class="bg-white text-center text-sm py-4" role="contentinfo">
             <ul class="flex flex-col md:flex-row justify-center list-none">
                 <li class="md:mr-2">
-                    Block Everyone. Forever.
+                    Block Everyone. Forever. <a href="https://github.com/blockeveryone/blockeveryone/" target="_blank">Get The Code.</a>
                 </li>
             </ul>
         </footer>
 
-        <script src="/assets/build/js/main.js?id=63972d24cbd44fad04aa8e2406b25b93"></script>
+        <script src="/assets/build/js/main.js?id=ffd1e4ff92cdb90f1a5637ef22abd84e"></script>
 
-        <script>
-    const navMenu = {
-        toggle() {
-            const menu = document.getElementById('js-nav-menu');
-            menu.classList.toggle('hidden');
-            menu.classList.toggle('lg:block');
-            document.getElementById('js-nav-menu-hide').classList.toggle('hidden');
-            document.getElementById('js-nav-menu-show').classList.toggle('hidden');
-        },
-    }
-</script>
-    </body>
+            </body>
 </html>

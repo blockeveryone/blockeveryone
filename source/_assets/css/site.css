@@ -1,1 +1,69 @@
-/* Your custom blog styles here */
+
+
+.card {
+    margin:0 auto;
+    position: relative;
+    width:500px;
+    height:750px;
+    background-image: url('/assets/img/card-back.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+
+    .photo {
+        width:482px;
+        height:738px;
+        position: absolute;
+        top:0;
+        left:0;
+        right:0;
+        bottom:0;
+        margin:auto;
+        z-index:3;
+    }
+
+    .front {
+        position: absolute;
+        top:0;
+        left:0;
+        right:0;
+        bottom:0;
+        margin:auto;
+        width:500px;
+        height:750px;
+        background-image: url('/assets/img/card-front.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        z-index:4;
+
+        #card-title {
+            text-transform: uppercase;
+            text-align: center;
+            width: 280px;
+            position: absolute;
+            top: 95px;
+            left: 125px;
+            color: #FFF;
+        }
+
+        .card-button-wrapper {
+            width:300px;
+            position: absolute;
+            bottom:140px;
+            left:102px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .done-button {
+            position: absolute;
+            width:150px;
+            height:50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            bottom: 30px;
+            left: 175px;
+            color:#FFF;
+        }
+    }
+}

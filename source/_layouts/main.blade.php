@@ -21,21 +21,18 @@
 
     <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
         <header class="flex items-center shadow bg-white border-b h-24 py-4" role="banner">
-            <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
-                <div class="flex items-center">
-                    <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
-                        <img class="h-8 md:h-10 mr-3" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" />
-
-                        <h1 class="text-lg md:text-2xl text-blue-800 font-semibold hover:text-blue-600 my-0">{{ $page->siteName }}</h1>
-                    </a>
+            <div class="container flex items-center justify-evenly max-w-8xl mx-auto px-4 lg:px-8">
+                <div class="flex justify-end items-center">
+                    <img class="h-12 md:h-16 mr-4" src="/assets/img/rank_0.png" id="player-rank-icon">
+                    <h2 class="m-0 p-0 text-purple-950" id="player-rank-name">Rookie</h2>
                 </div>
 
-                <div id="vue-search" class="flex flex-1 justify-end items-center">
-                    <search></search>
-
-                    @include('_nav.menu')
-
-                    @include('_nav.menu-toggle')
+                <div class="flex items-center justify-center flex-col min-w-52">
+                    <h4 class="m-0 mb-2 p-0 text-sm uppercase font-black">BLOCKS TO NEXT LEVEL</h4>
+                    <div class="w-full bg-purple-700 rounded-full h-2.5">
+                        <div class="bg-purple-400 h-2.5 rounded-full" style="width: 45%"></div>
+                    </div>
+                    <h4 class="m-0 mt-2 p-0 text-sm uppercase font-black">7 LEFT</h4>
                 </div>
             </div>
         </header>
@@ -46,7 +43,7 @@
             @yield('body')
         </main>
 
-        <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
+        <footer class="bg-white text-center text-sm py-4" role="contentinfo">
             <ul class="flex flex-col md:flex-row justify-center list-none">
                 <li class="md:mr-2">
                     Block Everyone. Forever. <a href="https://github.com/blockeveryone/blockeveryone/" target="_blank">Get The Code.</a>
