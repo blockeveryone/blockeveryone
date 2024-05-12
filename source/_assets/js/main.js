@@ -158,11 +158,7 @@ $(document).ready(function()
                 .show()
                 .css({opacity:0, top:0, right:"-100%"})
                 .animate({opacity: 1, right:0}, 100, function() {
-                    if ($(window).width() <= 490) {
-                        $(".card-wrapper").css({left:"-13.5%", opacity:1}).show();
-                    } else {
-                        $(".card-wrapper").css({left:0, opacity:1}).show();
-                    }
+                    $(".card-wrapper").css({left:0, opacity:1}).show();
                 });
         });
     });
@@ -180,7 +176,7 @@ $(document).ready(function()
         });
     });
 
-    $(".card").click(function() {
+    $(".card-button-wrapper a").click(function() {
        sounds.clickLight.play();
     });
 });
