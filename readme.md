@@ -1,5 +1,7 @@
 # Block Everyone 🍉
 
+[Play It Here (https://blockeveryone.com)](https://blockeveryone.com)
+
 An easy and fun gamified way to block everyone. No trackers, no accounts, no external assets, no nonsense.
 
 Download the code and use the files in the `build_production` folder to host the game yourself.
