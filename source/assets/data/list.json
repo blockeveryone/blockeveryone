@@ -1,1442 +1,1622 @@
 [
-  {
-    "Name": "Drake",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/Drake",
-    "Instagram": "https://www.instagram.com/champagnepapi"
-  },
-  {
-    "Name": "Hailey Bieber",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@haileybieber",
-    "Twitter (X)": "https://www.tiktok.com/@haileybieber",
-    "Instagram": "https://www.instagram.com/haileybieber"
-  },
-  {
-    "Name": "Justin Bieber",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@justinbieber",
-    "Twitter (X)": "https://twitter.com/justinbieber",
-    "Instagram": "https://www.instagram.com/justinbieber"
-  },
-  {
-    "Name": "Meghan Trainor",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@meghantrainor",
-    "Twitter (X)": "https://twitter.com/Meghan_Trainor",
-    "Instagram": "https://www.instagram.com/meghantrainor"
-  },
-  {
-    "Name": "Sam Smith",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "https://www.tiktok.com/@samsmith",
-    "Twitter (X)": "https://twitter.com/samsmith",
-    "Instagram": "https://www.instagram.com/samsmith"
-  },
-  {
-    "Name": "Amy Schumer",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "https://www.tiktok.com/@therealamyschumer",
-    "Twitter (X)": "https://twitter.com/amyschumer",
-    "Instagram": "https://www.instagram.com/amyschumer"
-  },
-  {
-    "Name": "Andrew Scott",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/andrewscottclips"
-  },
-  {
-    "Name": "Antoine Fuqua",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/fuquafilms_",
-    "Instagram": "https://www.instagram.com/antoinefuqua"
-  },
-  {
-    "Name": "Ariana Grande",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "https://www.tiktok.com/@arianagrande",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/arianagrande"
-  },
-  {
-    "Name": "Awkwafina",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/awkwafina",
-    "Instagram": "https://www.instagram.com/awkwafina"
-  },
-  {
-    "Name": "Bella Thorne",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "https://www.tiktok.com/@bellathorne",
-    "Twitter (X)": "https://twitter.com/bellathorne",
-    "Instagram": "https://www.instagram.com/bellathorne"
-  },
-  {
-    "Name": "Ben Savage",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/BenSavage",
-    "Instagram": "https://www.instagram.com/bensavage"
-  },
-  {
-    "Name": "Beyonce",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@beyonce",
-    "Twitter (X)": "https://twitter.com/Beyonce",
-    "Instagram": "https://www.instagram.com/beyonce"
-  },
-  {
-    "Name": "Brian Baumgartner",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "https://www.tiktok.com/@bbbaumgartner",
-    "Twitter (X)": "https://twitter.com/bbbaumgartner",
-    "Instagram": "https://www.instagram.com/bbbaumgartner"
-  },
-  {
-    "Name": "Brie Larson",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/brielarson",
-    "Instagram": "https://www.instagram.com/brielarson"
-  },
-  {
-    "Name": "Cara Delevingne",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "https://www.tiktok.com/@caradelevingne",
-    "Twitter (X)": "https://twitter.com/Caradelevingne",
-    "Instagram": "https://www.instagram.com/caradelevingne"
-  },
-  {
-    "Name": "Cardi B",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "https://www.tiktok.com/@iamcardib",
-    "Twitter (X)": "https://twitter.com/iamcardib",
-    "Instagram": "https://www.instagram.com/iamcardib"
-  },
-  {
-    "Name": "Chris Pine",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/ChrisPineNetwrk",
-    "Instagram": "https://www.instagram.com/chris.w.pine/"
-  },
-  {
-    "Name": "Chuck Liddell",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "https://www.tiktok.com/@thechuckliddell",
-    "Twitter (X)": "https://twitter.com/ChuckLiddell",
-    "Instagram": "https://www.instagram.com/chuckliddell/"
-  },
-  {
-    "Name": "Doja Cat",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "https://www.tiktok.com/@dojacat",
-    "Twitter (X)": "https://twitter.com/DojaCat",
-    "Instagram": "https://www.instagram.com/dojacat"
-  },
-  {
-    "Name": "Drew Barrymore",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@drewbarrymore",
-    "Twitter (X)": "https://twitter.com/DrewBarrymore",
-    "Instagram": "https://www.instagram.com/drewbarrymore"
-  },
-  {
-    "Name": "Dua Lipa",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "https://www.tiktok.com/@dualipaofficial",
-    "Twitter (X)": "https://twitter.com/DUALIPA",
-    "Instagram": "https://www.instagram.com/dualipa"
-  },
-  {
-    "Name": "Dwayne Johnson",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@therock",
-    "Twitter (X)": "https://www.twitter.com/TheRock",
-    "Instagram": "https://www.instagram.com/therock"
-  },
-  {
-    "Name": "Ed Sheeran",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "https://www.tiktok.com/@edsheeran",
-    "Twitter (X)": "https://twitter.com/edsheeran",
-    "Instagram": "https://www.instagram.com/teddysphotos"
-  },
-  {
-    "Name": "Eli Roth",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/eliroth",
-    "Instagram": "https://www.instagram.com/realeliroth/"
-  },
-  {
-    "Name": "Elle Fanning",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/ElIeFanning",
-    "Instagram": "https://www.instagram.com/ellefanning"
-  },
-  {
-    "Name": "Ellen DeGeneres",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@ellendegeneres",
-    "Twitter (X)": "https://twitter.com/EllenDegeneres",
-    "Instagram": "https://www.instagram.com/theellenshow"
-  },
-  {
-    "Name": "Gal Gadot",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "https://www.tiktok.com/@galgadot",
-    "Twitter (X)": "https://twitter.com/galgadot",
-    "Instagram": "https://www.instagram.com/gal_gadot"
-  },
-  {
-    "Name": "George Lopez",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "https://www.tiktok.com/@georgelopez",
-    "Twitter (X)": "https://twitter.com/georgelopez",
-    "Instagram": "https://www.instagram.com/georgelopez/"
-  },
-  {
-    "Name": "Greg Berlanti",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/gberlanti",
-    "Instagram": "https://www.instagram.com/gberlanti"
-  },
-  {
-    "Name": "Haley Baylee",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "https://www.tiktok.com/@haleyybaylee",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/haleyybaylee/"
-  },
-  {
-    "Name": "Howie Mandel",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "https://www.tiktok.com/@officialhowiemandel",
-    "Twitter (X)": "https://twitter.com/howiemandel",
-    "Instagram": "https://www.instagram.com/howiemandel"
-  },
-  {
-    "Name": "Hugh Jackman",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "https://www.tiktok.com/@thehughjackmanofficial",
-    "Twitter (X)": "https://twitter.com/RealHughJackman",
-    "Instagram": "https://www.instagram.com/thehughjackman"
-  },
-  {
-    "Name": "Ian Ziering",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/IanZiering",
-    "Instagram": "https://www.instagram.com/ianziering/"
-  },
-  {
-    "Name": "Jack Dylan Grazer",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/Jgrazerofficial",
-    "Instagram": "https://www.instagram.com/jackdgrazer"
-  },
-  {
-    "Name": "Jamie Lee Curtis",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/jamieleecurtis"
-  },
-  {
-    "Name": "Jason Alexander",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "https://www.tiktok.com/@reallynoreallypodcast",
-    "Twitter (X)": "https://twitter.com/ijasonalexander",
-    "Instagram": "https://www.instagram.com/jalexander1959"
-  },
-  {
-    "Name": "Jay-Z",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "",
-    "Twitter (X)": "https://www.twitter.com/sc",
-    "Instagram": "https://www.instagram.com/jayz/"
-  },
-  {
-    "Name": "Jennifer Lawrence",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/JLawrence_RepUs",
-    "Instagram": "https://www.instagram.com/1jnnf"
-  },
-  {
-    "Name": "Jennifer Lopez",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "https://www.tiktok.com/@jlo",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/jlo"
-  },
-  {
-    "Name": "Jeremy Piven",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/jeremypiven",
-    "Instagram": "https://www.instagram.com/jeremypiven/"
-  },
-  {
-    "Name": "Jerry Seinfeld",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/JerrySeinfeld",
-    "Instagram": "https://www.instagram.com/jerryseinfeld"
-  },
-  {
-    "Name": "Jimmy Fallon",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@jimmyfallon",
-    "Twitter (X)": "https://twitter.com/jimmyfallon",
-    "Instagram": "https://www.instagram.com/jimmyfallon"
-  },
-  {
-    "Name": "Jimmy Kimmel",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/jimmykimmel",
-    "Instagram": "https://www.instagram.com/jimmykimmel"
-  },
-  {
-    "Name": "Joe Jonas",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@joejonas",
-    "Twitter (X)": "https://twitter.com/joejonas",
-    "Instagram": "https://www.instagram.com/joejonas"
-  },
-  {
-    "Name": "Jojo Siwa",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@itsjojosiwa",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/itsjojosiwa"
-  },
-  {
-    "Name": "Jonah Platt",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/JonahPlatt",
-    "Instagram": "https://www.instagram.com/jonahplatt/"
-  },
-  {
-    "Name": "Josh Peck",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "https://www.tiktok.com/@joshpeck",
-    "Twitter (X)": "https://twitter.com/ItsJoshPeck",
-    "Instagram": "https://www.instagram.com/shuapeck"
-  },
-  {
-    "Name": "Jude Law",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/judehlaw/"
-  },
-  {
-    "Name": "Kanye West",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@ye",
-    "Twitter (X)": "https://twitter.com/kanyewest",
-    "Instagram": ""
-  },
-  {
-    "Name": "Karen Allen",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/karenallenofficial"
-  },
-  {
-    "Name": "Keith Urban",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/KeithUrban",
-    "Instagram": "https://www.instagram.com/keithurban"
-  },
-  {
-    "Name": "Kendall Jenner",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "https://www.tiktok.com/@kendalljenner",
-    "Twitter (X)": "https://twitter.com/KendallJenner",
-    "Instagram": "https://www.instagram.com/kendalljenner"
-  },
-  {
-    "Name": "Kevin Hart",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@imkevinhart",
-    "Twitter (X)": "https://twitter.com/KevinHart4real",
-    "Instagram": "https://www.instagram.com/kevinhart4real"
-  },
-  {
-    "Name": "Kevin Jonas",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@kevinjonas",
-    "Twitter (X)": "https://twitter.com/kevinjonas",
-    "Instagram": "https://www.instagram.com/kevinjonas"
-  },
-  {
-    "Name": "Kim Kardashian",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "https://www.tiktok.com/@kimkardashian",
-    "Twitter (X)": "https://twitter.com/KimKardashian",
-    "Instagram": "https://www.instagram.com/kimkardashian"
-  },
-  {
-    "Name": "Kylie Jenner",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "https://www.tiktok.com/@kyliejenner",
-    "Twitter (X)": "https://twitter.com/KylieJenner",
-    "Instagram": "https://www.instagram.com/kyliejenner"
-  },
-  {
-    "Name": "Lady Gaga",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@ladygaga",
-    "Twitter (X)": "https://twitter.com/ladygaga",
-    "Instagram": "https://www.instagram.com/ladygaga"
-  },
-  {
-    "Name": "Lana Del Rey",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/LanaDelRey",
-    "Instagram": "https://www.instagram.com/honeymoon/"
-  },
-  {
-    "Name": "Liev Schreiber",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/LievSchreiber",
-    "Instagram": "https://www.instagram.com/lievschreiber/"
-  },
-  {
-    "Name": "Lizzo",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@lizzo",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/lizzobeeating"
-  },
-  {
-    "Name": "Mariah Carey",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@mariahcarey",
-    "Twitter (X)": "https://twitter.com/MariahCarey",
-    "Instagram": "https://www.instagram.com/mariahcarey"
-  },
-  {
-    "Name": "Mark Hamill",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "https://www.tiktok.com/@hamillhimself",
-    "Twitter (X)": "https://twitter.com/MarkHamill",
-    "Instagram": "https://www.instagram.com/markhamill"
-  },
-  {
-    "Name": "Mayim Bialik",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "https://www.tiktok.com/@mayimbialik",
-    "Twitter (X)": "https://www.tiktok.com/@mayimbialik",
-    "Instagram": "https://www.instagram.com/missmayim"
-  },
-  {
-    "Name": "Meg Ryan",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/RealMegRyan",
-    "Instagram": "https://www.instagram.com/megryan"
-  },
-  {
-    "Name": "Michael Douglas",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/kdouglasmichael",
-    "Instagram": "https://www.instagram.com/michaelkirkdouglas"
-  },
-  {
-    "Name": "Michael Rosenbaum",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "https://www.tiktok.com/@insideofyou_podcast",
-    "Twitter (X)": "https://twitter.com/michaelrosenbum",
-    "Instagram": "https://www.instagram.com/themichaelrosenbaum"
-  },
-  {
-    "Name": "Naomi Watts",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/_NaomiWatts_",
-    "Instagram": "https://www.instagram.com/naomiwatts"
-  },
-  {
-    "Name": "Nick Jonas",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@nickjonas",
-    "Twitter (X)": "https://twitter.com/nickjonas",
-    "Instagram": "https://www.instagram.com/nickjonas"
-  },
-  {
-    "Name": "Nicki Minaj",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@nickiminaj",
-    "Twitter (X)": "https://twitter.com/NICKIMINAJ",
-    "Instagram": "https://www.instagram.com/nickiminaj"
-  },
-  {
-    "Name": "Nicole Kidman",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/nicolekidman"
-  },
-  {
-    "Name": "Noah Schnapp",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@noahschnapp",
-    "Twitter (X)": "https://twitter.com/noah_schnapp",
-    "Instagram": "https://www.instagram.com/noahschnapp"
-  },
-  {
-    "Name": "Oprah",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@oprah",
-    "Twitter (X)": "https://twitter.com/Oprah",
-    "Instagram": "https://www.instagram.com/Oprah"
-  },
-  {
-    "Name": "Selena Gomez",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@selenagomez",
-    "Twitter (X)": "https://twitter.com/selenagomez",
-    "Instagram": "https://www.instagram.com/selenagomez"
-  },
-  {
-    "Name": "Seth Meyers",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/sethmeyers",
-    "Instagram": "https://www.instagram.com/sethmeyers"
-  },
-  {
-    "Name": "Shakira",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "https://www.tiktok.com/@shakira",
-    "Twitter (X)": "https://twitter.com/shakira",
-    "Instagram": "http://www.instagram.com/shakira"
-  },
-  {
-    "Name": "Stephen Colbert",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/StephenAtHome",
-    "Instagram": "https://www.instagram.com/stephenathome"
-  },
-  {
-    "Name": "Stephen Fry",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/stephenfry",
-    "Instagram": "https://www.instagram.com/stephenfryactually"
-  },
-  {
-    "Name": "Sydney Sweeney",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/sydney_sweeney",
-    "Instagram": "https://www.instagram.com/sydney_sweeney"
-  },
-  {
-    "Name": "Taylor Swift",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@taylorswift",
-    "Twitter (X)": "https://twitter.com/taylorswift13",
-    "Instagram": "https://www.instagram.com/taylorswift"
-  },
-  {
-    "Name": "Tiffany Haddish",
-    "Date Added": "5/9/2024",
-    "Why": "College Campuses Rant",
-    "Tiktok": "https://www.tiktok.com/@tiffanyhaddish",
-    "Twitter (X)": "https://twitter.com/TiffanyHaddish",
-    "Instagram": "https://www.instagram.com/tiffanyhaddish"
-  },
-  {
-    "Name": "Timothee Chalamet",
-    "Date Added": "5/9/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@timotheechalameet",
-    "Twitter (X)": "https://www.twitter.com/RealChalamet",
-    "Instagram": "https://www.instagram.com/tchalamet"
-  },
-  {
-    "Name": "Usher",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "https://www.tiktok.com/@usher",
-    "Twitter (X)": "https://twitter.com/Usher",
-    "Instagram": "https://www.instagram.com/usher"
-  },
-  {
-    "Name": "Zachary Levi",
-    "Date Added": "5/9/2024",
-    "Why": "Hollywood Open Letter",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/ZacharyLevi",
-    "Instagram": "https://www.instagram.com/zacharylevi"
-  },
-  {
-    "Name": "Zendaya",
-    "Date Added": "5/9/2024",
-    "Why": "Met Gala",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/Zendaya",
-    "Instagram": "https://www.instagram.com/zendaya"
-  },
-  {
-    "Name": "Adam Levine",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@adamlevine",
-    "Twitter (X)": "https://twitter.com/adamlevine",
-    "Instagram": "https://www.instagram.com/adamlevine"
-  },
-  {
-    "Name": "Adam Sandler",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/AdamSandler",
-    "Instagram": "https://www.instagram.com/adamsandler"
-  },
-  {
-    "Name": "Addison Rae",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@addisonre",
-    "Twitter (X)": "https://twitter.com/whoisaddison",
-    "Instagram": "https://www.instagram.com/addisonraee"
-  },
-  {
-    "Name": "Alex Edelman",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@alexedelman",
-    "Twitter (X)": "https://twitter.com/AlexEdelman",
-    "Instagram": "https://www.instagram.com/alexedelman/"
-  },
-  {
-    "Name": "Andy Cohen",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@andycohen",
-    "Twitter (X)": "https://twitter.com/andy",
-    "Instagram": "https://www.instagram.com/bravoandy"
-  },
-  {
-    "Name": "Aubrey Plaza",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/evilhag",
-    "Instagram": "https://www.instagram.com/plazadeaubrey"
-  },
-  {
-    "Name": "Bella Poarch",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@bellapoarch",
-    "Twitter (X)": "https://twitter.com/bellapoarch",
-    "Instagram": "https://www.instagram.com/bellapoarch"
-  },
-  {
-    "Name": "Ben Stiller",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/BenStiller",
-    "Instagram": "https://www.instagram.com/benstiller"
-  },
-  {
-    "Name": "Billie Eilish",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@billieeilish",
-    "Twitter (X)": "https://twitter.com/billieeilish",
-    "Instagram": "https://www.instagram.com/billieeilish"
-  },
-  {
-    "Name": "Billy Crystal",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/BillyCrystal",
-    "Instagram": "https://www.instagram.com/thebillycrystal"
-  },
-  {
-    "Name": "Bob Odenkirk",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/mrbobodenkirk",
-    "Instagram": "https://www.instagram.com/therealbobodenkirk"
-  },
-  {
-    "Name": "Brooke Shields",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@brookeshieldsofficial",
-    "Twitter (X)": "https://twitter.com/BrookeShields",
-    "Instagram": "https://www.instagram.com/brookeshields"
-  },
-  {
-    "Name": "Camila Mendes",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@camimendes",
-    "Twitter (X)": "https://twitter.com/camilamendes",
-    "Instagram": "https://www.instagram.com/camimendes"
-  },
-  {
-    "Name": "Charli D'Amelio",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@charlidamelio",
-    "Twitter (X)": "https://twitter.com/charlidamelio",
-    "Instagram": "https://www.instagram.com/charlidamelio"
-  },
-  {
-    "Name": "Chelsea Handler",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@chelseahandler",
-    "Twitter (X)": "https://twitter.com/chelseahandler",
-    "Instagram": "https://www.instagram.com/chelseahandler"
-  },
-  {
-    "Name": "Chloe Fineman",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@chloefineman",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/chloeiscrazy/"
-  },
-  {
-    "Name": "Chris Jericho",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@chrisjericho",
-    "Twitter (X)": "https://twitter.com/IAmJericho",
-    "Instagram": "https://www.instagram.com/chrisjerichofozzy"
-  },
-  {
-    "Name": "Chris Rock",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@chrisrock",
-    "Twitter (X)": "https://twitter.com/chrisrock",
-    "Instagram": "https://www.instagram.com/chrisrock"
-  },
-  {
-    "Name": "Constance Wu",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/constancewu",
-    "Instagram": "https://www.instagram.com/constancewu"
-  },
-  {
-    "Name": "Courteney Cox",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@courteneycoxofficial",
-    "Twitter (X)": "https://twitter.com/CourteneyCox",
-    "Instagram": "https://www.instagram.com/courteneycoxofficial"
-  },
-  {
-    "Name": "Dan Levy",
-    "Date Added": "5/10/2024",
-    "Why": "Met Gala",
-    "Tiktok": "https://www.tiktok.com/@danjlevy",
-    "Twitter (X)": "https://twitter.com/danjlevy",
-    "Instagram": "https://www.instagram.com/instadanjlevy"
-  },
-  {
-    "Name": "David Alan Grier",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/davidalangrier",
-    "Instagram": "https://www.instagram.com/davidalangrier"
-  },
-  {
-    "Name": "David Schwimmer",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/DavidSchwimmer",
-    "Instagram": "https://www.instagram.com/_schwim_"
-  },
-  {
-    "Name": "Dean Cain",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/realdeancain",
-    "Instagram": "https://www.instagram.com/deuces1966/"
-  },
-  {
-    "Name": "Debra Messing",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@therealdebramessing",
-    "Twitter (X)": "https://twitter.com/debramessing",
-    "Instagram": "https://www.instagram.com/therealdebramessing/"
-  },
-  {
-    "Name": "Dixie D'Amelio",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@dixiedamelio",
-    "Twitter (X)": "https://twitter.com/dixiedamelio",
-    "Instagram": "https://www.instagram.com/dixiedamelio"
-  },
-  {
-    "Name": "Erin Foster",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@erintiktokman",
-    "Twitter (X)": "https://twitter.com/efosta",
-    "Instagram": "https://www.instagram.com/erinfoster/"
-  },
-  {
-    "Name": "Eugene Levy",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/Realeugenelevy",
-    "Instagram": ""
-  },
-  {
-    "Name": "Eva Mendes",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/evamendes",
-    "Instagram": "https://www.instagram.com/evamendes"
-  },
-  {
-    "Name": "Gordon Ramsay",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@gordonramsayofficial",
-    "Twitter (X)": "https://twitter.com/GordonRamsay",
-    "Instagram": "https://www.instagram.com/gordongram"
-  },
-  {
-    "Name": "Gwyneth Paltrow",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/GwynethPaltrow",
-    "Instagram": "https://www.instagram.com/gwynethpaltrow"
-  },
-  {
-    "Name": "Henry Winkler",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@henry.winkler",
-    "Twitter (X)": "https://twitter.com/hwinkler4real",
-    "Instagram": "https://www.instagram.com/hwinkler4real/"
-  },
-  {
-    "Name": "Isla Fisher",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/islafisher"
-  },
-  {
-    "Name": "Jack Black",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@jackblack",
-    "Twitter (X)": "https://twitter.com/jackblack",
-    "Instagram": "https://www.instagram.com/jackblack"
-  },
-  {
-    "Name": "James Brolin",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/jamesbrolin_"
-  },
-  {
-    "Name": "James Corden",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/JKCorden",
-    "Instagram": "https://www.instagram.com/j_corden"
-  },
-  {
-    "Name": "Jason Derulo",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@jasonderulo",
-    "Twitter (X)": "https://twitter.com/jasonderulo",
-    "Instagram": "https://www.instagram.com/jasonderulo"
-  },
-  {
-    "Name": "Jason Reitman",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/JasonReitman",
-    "Instagram": "https://www.instagram.com/jasonreitman/"
-  },
-  {
-    "Name": "Jason Segel",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/jasonsegel",
-    "Instagram": "https://www.instagram.com/jasonsegel"
-  },
-  {
-    "Name": "Jason Sudeikis",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/jasonsudeikis",
-    "Instagram": "https://www.instagram.com/jason_sudeikis"
-  },
-  {
-    "Name": "Jeff Goldblum",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@jeffgoldblum",
-    "Twitter (X)": "https://twitter.com/jeffreygoldbium",
-    "Instagram": "https://www.instagram.com/jeffgoldblum"
-  },
-  {
-    "Name": "Jesse Plemons",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/garyfromgamenight"
-  },
-  {
-    "Name": "Jessica Biel",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@jessbiel",
-    "Twitter (X)": "https://twitter.com/JessicaBiel",
-    "Instagram": "https://www.instagram.com/jessicabiel"
-  },
-  {
-    "Name": "Jimmy Carr",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@jimmycarr",
-    "Twitter (X)": "https://twitter.com/jimmycarr",
-    "Instagram": "https://www.instagram.com/jimmycarr"
-  },
-  {
-    "Name": "Joey King",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@joeyking",
-    "Twitter (X)": "https://twitter.com/JoeyKing",
-    "Instagram": "https://www.instagram.com/joeyking"
-  },
-  {
-    "Name": "Jon Hamm",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/JonMHamm",
-    "Instagram": "https://www.instagram.com/bestofjonhamm/"
-  },
-  {
-    "Name": "Jonathan Ross",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@jrossshow",
-    "Twitter (X)": "https://twitter.com/wossy",
-    "Instagram": "https://www.instagram.com/mewossy/"
-  },
-  {
-    "Name": "Jordan Peele",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/jordanpeele",
-    "Instagram": "https://www.instagram.com/jordanpeele/"
-  },
-  {
-    "Name": "Josh Brolin",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/thejoshbrolin",
-    "Instagram": "https://www.instagram.com/joshbrolin"
-  },
-  {
-    "Name": "Judd Apatow",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/JuddApatow",
-    "Instagram": "https://www.instagram.com/juddapatow/"
-  },
-  {
-    "Name": "Judge Judy Sheindlin",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@judgejudy",
-    "Twitter (X)": "https://twitter.com/JudgeJudy",
-    "Instagram": "https://www.instagram.com/judgejudytv"
-  },
-  {
-    "Name": "Julia Garner",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/juliagarner94",
-    "Instagram": "https://www.instagram.com/juliagarnerofficial"
-  },
-  {
-    "Name": "Justin Theroux",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/justintheroux"
-  },
-  {
-    "Name": "Justin Timberlake",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@justintimberlake",
-    "Twitter (X)": "https://twitter.com/jtimberlake",
-    "Instagram": "https://www.instagram.com/justintimberlake"
-  },
-  {
-    "Name": "Karlie Kloss",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@karliekloss",
-    "Twitter (X)": "https://twitter.com/karliekloss",
-    "Instagram": "https://www.instagram.com/karliekloss/"
-  },
-  {
-    "Name": "Katy Perry",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@katyperry",
-    "Twitter (X)": "https://twitter.com/katyperry",
-    "Instagram": "https://www.instagram.com/katyperry"
-  },
-  {
-    "Name": "Khabane Lame",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@khaby.lame",
-    "Twitter (X)": "https://twitter.com/KhabyLame",
-    "Instagram": "https://www.instagram.com/khaby00"
-  },
-  {
-    "Name": "Kim and North",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@kimandnorth",
-    "Twitter (X)": "",
-    "Instagram": ""
-  },
-  {
-    "Name": "Kimberly Loaiza",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@kimberly.loaiza",
-    "Twitter (X)": "https://twitter.com/kimberlyloaiza_",
-    "Instagram": "https://www.instagram.com/kimberly.loaiza"
-  },
-  {
-    "Name": "Kirsten Dunst",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/kirstendunst",
-    "Instagram": "https://www.instagram.com/kirstendunst"
-  },
-  {
-    "Name": "Kourtney Kardashian",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@kourtneykardashian",
-    "Twitter (X)": "",
-    "Instagram": ""
-  },
-  {
-    "Name": "Kristin Chenoweth",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@kristinchenoweth",
-    "Twitter (X)": "https://twitter.com/KChenoweth",
-    "Instagram": "https://www.instagram.com/kchenoweth"
-  },
-  {
-    "Name": "Kristina Collins",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@kallmekris",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/kriscollins"
-  },
-  {
-    "Name": "Laura Dern",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/LauraDern",
-    "Instagram": "https://www.instagram.com/lauradern"
-  },
-  {
-    "Name": "Lea Michele",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@leamichele",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/leamichele"
-  },
-  {
-    "Name": "Madonna",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@madonna",
-    "Twitter (X)": "https://twitter.com/Madonna",
-    "Instagram": "https://www.instagram.com/madonna"
-  },
-  {
-    "Name": "Mark Foster",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@markiforsti",
-    "Twitter (X)": "https://twitter.com/marcuswest99",
-    "Instagram": "https://www.instagram.com/markfoster/"
-  },
-  {
-    "Name": "Mary Elizabeth Winstead",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://mobile.twitter.com/MaryWinsteadNet",
-    "Instagram": ""
-  },
-  {
-    "Name": "Megan Thee Stallion",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@theestallion",
-    "Twitter (X)": "https://twitter.com/theestallion",
-    "Instagram": "https://www.instagram.com/theestallion"
-  },
-  {
-    "Name": "Michael Rapaport",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@michaelrapaport",
-    "Twitter (X)": "https://twitter.com/MichaelRapaport",
-    "Instagram": "https://www.instagram.com/michaelrapaport"
-  },
-  {
-    "Name": "Mila Kunis",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@mkutcher",
-    "Twitter (X)": "https://twitter.com/MilaKunisv",
-    "Instagram": ""
-  },
-  {
-    "Name": "Millie Bobby Brown",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/Milliestopshate",
-    "Instagram": "https://www.instagram.com/milliebobbybrown"
-  },
-  {
-    "Name": "Molly Shannon",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/theofficialsuperstar/"
-  },
-  {
-    "Name": "MrBeast",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@mrbeast",
-    "Twitter (X)": "https://twitter.com/MrBeast",
-    "Instagram": "https://www.instagram.com/mrbeast"
-  },
-  {
-    "Name": "Natalie Portman",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/natalieportman"
-  },
-  {
-    "Name": "Nicola Peltz",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@nicolapeltzbeckham",
-    "Twitter (X)": "https://twitter.com/nicolaannepeltz",
-    "Instagram": "https://www.instagram.com/nicolaannepeltzbeckham"
-  },
-  {
-    "Name": "Nina Dobrev",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@nina",
-    "Twitter (X)": "https://twitter.com/ninadobrev",
-    "Instagram": "https://www.instagram.com/nina"
-  },
-  {
-    "Name": "Olivia Wilde",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/oliviawilde",
-    "Instagram": "https://www.instagram.com/oliviawilde"
-  },
-  {
-    "Name": "Orlando Bloom",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/OrlandoJB_Bloom",
-    "Instagram": "https://www.instagram.com/orlandobloom"
-  },
-  {
-    "Name": "Rihanna",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@rihanna",
-    "Twitter (X)": "https://twitter.com/rihanna",
-    "Instagram": "https://www.instagram.com/badgalriri"
-  },
-  {
-    "Name": "Rob Kardashian",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/robkardashian",
-    "Instagram": "https://www.instagram.com/robkardashianofficial"
-  },
-  {
-    "Name": "Rosie O’Donnell",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@rosie",
-    "Twitter (X)": "https://twitter.com/Rosie",
-    "Instagram": "https://www.instagram.com/rosie"
-  },
-  {
-    "Name": "Sacha Baron Cohen",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/SachaBaronCohen",
-    "Instagram": "https://www.instagram.com/sachabaroncohen"
-  },
-  {
-    "Name": "Sarah Paulson",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/MsSarahPaulson",
-    "Instagram": "https://www.instagram.com/mssarahcatharinepaulson"
-  },
-  {
-    "Name": "Sean Combs",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@diddy",
-    "Twitter (X)": "https://twitter.com/Diddy",
-    "Instagram": "https://www.instagram.com/diddy"
-  },
-  {
-    "Name": "Sharon Stone",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "",
-    "Instagram": "https://www.instagram.com/sharonstone"
-  },
-  {
-    "Name": "Shawn Levy",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/shawnlevydirect",
-    "Instagram": "https://www.instagram.com/slevydirect/"
-  },
-  {
-    "Name": "Sting",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@official_sting",
-    "Twitter (X)": "https://twitter.com/OfficialSting",
-    "Instagram": "https://www.instagram.com/theofficialsting"
-  },
-  {
-    "Name": "Taika Waititi",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "https://www.tiktok.com/@taikawaititi",
-    "Twitter (X)": "https://twitter.com/TaikaWaititi",
-    "Instagram": "https://www.instagram.com/taikawaititi"
-  },
-  {
-    "Name": "Tyler Perry",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/tylerperry",
-    "Instagram": "https://www.instagram.com/tylerperry"
-  },
-  {
-    "Name": "Victoria Justice",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@victoriajustice",
-    "Twitter (X)": "https://twitter.com/VictoriaJustice",
-    "Instagram": "https://www.instagram.com/victoriajustice"
-  },
-  {
-    "Name": "Will Smith",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@willsmith",
-    "Twitter (X)": "https://twitter.com/willsmith2real",
-    "Instagram": "https://www.instagram.com/willsmith/"
-  },
-  {
-    "Name": "Zack Snyder",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/ZackSnyder",
-    "Instagram": "https://www.instagram.com/snydercut/"
-  },
-  {
-    "Name": "Zoe Saldana",
-    "Date Added": "5/10/2024",
-    "Why": "Letter to Biden",
-    "Tiktok": "",
-    "Twitter (X)": "https://twitter.com/zoesaldana",
-    "Instagram": "https://www.instagram.com/zoesaldana"
-  },
-  {
-    "Name": "Jared Leto",
-    "Date Added": "5/10/2024",
-    "Why": "Inaction",
-    "Tiktok": "https://www.tiktok.com/@jaredleto",
-    "Twitter (X)": "https://www.tiktok.com/@jaredleto",
-    "Instagram": "https://www.instagram.com/jaredleto"
-  }
+    {
+        "Name": "Drake",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/Drake",
+        "Instagram": "https:\/\/www.instagram.com\/champagnepapi",
+        "hash": "b150f254e79816bcde37b04180539289"
+    },
+    {
+        "Name": "Hailey Bieber",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@haileybieber",
+        "Twitter (X)": "https:\/\/www.tiktok.com\/@haileybieber",
+        "Instagram": "https:\/\/www.instagram.com\/haileybieber",
+        "hash": "85423a621b062e1942e03ddbeeb351f6"
+    },
+    {
+        "Name": "Justin Bieber",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@justinbieber",
+        "Twitter (X)": "https:\/\/twitter.com\/justinbieber",
+        "Instagram": "https:\/\/www.instagram.com\/justinbieber",
+        "hash": "24b9298a187e48162094bf976c57f9f7"
+    },
+    {
+        "Name": "Meghan Trainor",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@meghantrainor",
+        "Twitter (X)": "https:\/\/twitter.com\/Meghan_Trainor",
+        "Instagram": "https:\/\/www.instagram.com\/meghantrainor",
+        "hash": "88b15982584de4b01ffb5c8d420e93a2"
+    },
+    {
+        "Name": "Sam Smith",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "https:\/\/www.tiktok.com\/@samsmith",
+        "Twitter (X)": "https:\/\/twitter.com\/samsmith",
+        "Instagram": "https:\/\/www.instagram.com\/samsmith",
+        "hash": "f35f73f741e80498c63a56cc1ac706f4"
+    },
+    {
+        "Name": "Amy Schumer",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "https:\/\/www.tiktok.com\/@therealamyschumer",
+        "Twitter (X)": "https:\/\/twitter.com\/amyschumer",
+        "Instagram": "https:\/\/www.instagram.com\/amyschumer",
+        "hash": "38870fe1c2662c17e5cb4df7b7fcf0af"
+    },
+    {
+        "Name": "Andrew Scott",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/andrewscottclips",
+        "hash": "83ae0221667eaf4e16b8ae197decd8e6"
+    },
+    {
+        "Name": "Antoine Fuqua",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/fuquafilms_",
+        "Instagram": "https:\/\/www.instagram.com\/antoinefuqua",
+        "hash": "df7b46ce7eb4e0ae782c035326c0233b"
+    },
+    {
+        "Name": "Ariana Grande",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "https:\/\/www.tiktok.com\/@arianagrande",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/arianagrande",
+        "hash": "4a5b04b6612655fa3e8d25cc90e4e73c"
+    },
+    {
+        "Name": "Awkwafina",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/awkwafina",
+        "Instagram": "https:\/\/www.instagram.com\/awkwafina",
+        "hash": "ce6740dae4ca10d3663cbcaa60e91f6f"
+    },
+    {
+        "Name": "Bella Thorne",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "https:\/\/www.tiktok.com\/@bellathorne",
+        "Twitter (X)": "https:\/\/twitter.com\/bellathorne",
+        "Instagram": "https:\/\/www.instagram.com\/bellathorne",
+        "hash": "18c1329b1c2d0ea1a8d7e6ef2ee5b435"
+    },
+    {
+        "Name": "Ben Savage",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/BenSavage",
+        "Instagram": "https:\/\/www.instagram.com\/bensavage",
+        "hash": "aa0a63a131d8aeef0ee9d89fe6aa08a7"
+    },
+    {
+        "Name": "Beyonce",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@beyonce",
+        "Twitter (X)": "https:\/\/twitter.com\/Beyonce",
+        "Instagram": "https:\/\/www.instagram.com\/beyonce",
+        "hash": "3ae5dabea04cba4ce60fa41dfaf36eec"
+    },
+    {
+        "Name": "Brian Baumgartner",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "https:\/\/www.tiktok.com\/@bbbaumgartner",
+        "Twitter (X)": "https:\/\/twitter.com\/bbbaumgartner",
+        "Instagram": "https:\/\/www.instagram.com\/bbbaumgartner",
+        "hash": "b738beda152aeb2ee9f8cab7a2a40484"
+    },
+    {
+        "Name": "Brie Larson",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/brielarson",
+        "Instagram": "https:\/\/www.instagram.com\/brielarson",
+        "hash": "b4125b99cf7743adbef2813f28255b57"
+    },
+    {
+        "Name": "Cara Delevingne",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "https:\/\/www.tiktok.com\/@caradelevingne",
+        "Twitter (X)": "https:\/\/twitter.com\/Caradelevingne",
+        "Instagram": "https:\/\/www.instagram.com\/caradelevingne",
+        "hash": "b055259501d5170744322a39049f2536"
+    },
+    {
+        "Name": "Cardi B",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "https:\/\/www.tiktok.com\/@iamcardib",
+        "Twitter (X)": "https:\/\/twitter.com\/iamcardib",
+        "Instagram": "https:\/\/www.instagram.com\/iamcardib",
+        "hash": "c3c11aa0c4e265d926b4dab11182fb38"
+    },
+    {
+        "Name": "Chris Pine",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/ChrisPineNetwrk",
+        "Instagram": "https:\/\/www.instagram.com\/chris.w.pine\/",
+        "hash": "a61969948d938943e2eadb89eedc8b0e"
+    },
+    {
+        "Name": "Chuck Liddell",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "https:\/\/www.tiktok.com\/@thechuckliddell",
+        "Twitter (X)": "https:\/\/twitter.com\/ChuckLiddell",
+        "Instagram": "https:\/\/www.instagram.com\/chuckliddell\/",
+        "hash": "e82d9eed17fb4b14154a034c11ef285b"
+    },
+    {
+        "Name": "Doja Cat",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "https:\/\/www.tiktok.com\/@dojacat",
+        "Twitter (X)": "https:\/\/twitter.com\/DojaCat",
+        "Instagram": "https:\/\/www.instagram.com\/dojacat",
+        "hash": "da61ed7ab765111a42fed325bd3f102e"
+    },
+    {
+        "Name": "Drew Barrymore",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@drewbarrymore",
+        "Twitter (X)": "https:\/\/twitter.com\/DrewBarrymore",
+        "Instagram": "https:\/\/www.instagram.com\/drewbarrymore",
+        "hash": "7fb134b0b4bd0ad8f7e08a78ab835061"
+    },
+    {
+        "Name": "Dua Lipa",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "https:\/\/www.tiktok.com\/@dualipaofficial",
+        "Twitter (X)": "https:\/\/twitter.com\/DUALIPA",
+        "Instagram": "https:\/\/www.instagram.com\/dualipa",
+        "hash": "2444914d57fd37fed305eaa75f75f8e9"
+    },
+    {
+        "Name": "Dwayne Johnson",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@therock",
+        "Twitter (X)": "https:\/\/www.twitter.com\/TheRock",
+        "Instagram": "https:\/\/www.instagram.com\/therock",
+        "hash": "4c934fa80bc4f9271604ca2a577f8ea3"
+    },
+    {
+        "Name": "Ed Sheeran",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "https:\/\/www.tiktok.com\/@edsheeran",
+        "Twitter (X)": "https:\/\/twitter.com\/edsheeran",
+        "Instagram": "https:\/\/www.instagram.com\/teddysphotos",
+        "hash": "c19162e3de8a97b9e8110ade142cd7c4"
+    },
+    {
+        "Name": "Eli Roth",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/eliroth",
+        "Instagram": "https:\/\/www.instagram.com\/realeliroth\/",
+        "hash": "61c1e7d3051808d183c2a27a4236269f"
+    },
+    {
+        "Name": "Elle Fanning",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/ElIeFanning",
+        "Instagram": "https:\/\/www.instagram.com\/ellefanning",
+        "hash": "79b3770047ceeeb297d314682152b2b1"
+    },
+    {
+        "Name": "Ellen DeGeneres",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@ellendegeneres",
+        "Twitter (X)": "https:\/\/twitter.com\/EllenDegeneres",
+        "Instagram": "https:\/\/www.instagram.com\/theellenshow",
+        "hash": "156daca003aa52ff09064d00bdb270da"
+    },
+    {
+        "Name": "Gal Gadot",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "https:\/\/www.tiktok.com\/@galgadot",
+        "Twitter (X)": "https:\/\/twitter.com\/galgadot",
+        "Instagram": "https:\/\/www.instagram.com\/gal_gadot",
+        "hash": "593d0fe8e313c02f8e259ad8dce11aa2"
+    },
+    {
+        "Name": "George Lopez",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "https:\/\/www.tiktok.com\/@georgelopez",
+        "Twitter (X)": "https:\/\/twitter.com\/georgelopez",
+        "Instagram": "https:\/\/www.instagram.com\/georgelopez\/",
+        "hash": "fd02aee2213026d309ef7c7c303f704f"
+    },
+    {
+        "Name": "Greg Berlanti",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/gberlanti",
+        "Instagram": "https:\/\/www.instagram.com\/gberlanti",
+        "hash": "2ea9112dc3aee91e082f8faf9dae8874"
+    },
+    {
+        "Name": "Haley Baylee",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "https:\/\/www.tiktok.com\/@haleyybaylee",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/haleyybaylee\/",
+        "hash": "cb47d8c8752d11d68947643a0ea23834"
+    },
+    {
+        "Name": "Howie Mandel",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "https:\/\/www.tiktok.com\/@officialhowiemandel",
+        "Twitter (X)": "https:\/\/twitter.com\/howiemandel",
+        "Instagram": "https:\/\/www.instagram.com\/howiemandel",
+        "hash": "0ea27f3b2c26c304ddca31cd31a82cf0"
+    },
+    {
+        "Name": "Hugh Jackman",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "https:\/\/www.tiktok.com\/@thehughjackmanofficial",
+        "Twitter (X)": "https:\/\/twitter.com\/RealHughJackman",
+        "Instagram": "https:\/\/www.instagram.com\/thehughjackman",
+        "hash": "d756b74e5cbe3e47cbb0de8969ea3ce4"
+    },
+    {
+        "Name": "Ian Ziering",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/IanZiering",
+        "Instagram": "https:\/\/www.instagram.com\/ianziering\/",
+        "hash": "40e141f3ce1298a7af8af6d9a66bed8d"
+    },
+    {
+        "Name": "Jack Dylan Grazer",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/Jgrazerofficial",
+        "Instagram": "https:\/\/www.instagram.com\/jackdgrazer",
+        "hash": "5b4301738a48b36b70d85eb5f419f706"
+    },
+    {
+        "Name": "Jamie Lee Curtis",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/jamieleecurtis",
+        "hash": "4e0ecf8d8ddae8a4d8d443a97c8ba660"
+    },
+    {
+        "Name": "Jason Alexander",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "https:\/\/www.tiktok.com\/@reallynoreallypodcast",
+        "Twitter (X)": "https:\/\/twitter.com\/ijasonalexander",
+        "Instagram": "https:\/\/www.instagram.com\/jalexander1959",
+        "hash": "3a7da7f21a9fb24f99401d15dfd4d696"
+    },
+    {
+        "Name": "Jay-Z",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/www.twitter.com\/sc",
+        "Instagram": "https:\/\/www.instagram.com\/jayz\/",
+        "hash": "fefbf3f8afd761b8e1b2c992f21da8c1"
+    },
+    {
+        "Name": "Jennifer Lawrence",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/JLawrence_RepUs",
+        "Instagram": "https:\/\/www.instagram.com\/1jnnf",
+        "hash": "f72f92c8efeb540e612d6e4a94a29e3a"
+    },
+    {
+        "Name": "Jennifer Lopez",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "https:\/\/www.tiktok.com\/@jlo",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/jlo",
+        "hash": "e41c2d43b624e9237ce154512f47de53"
+    },
+    {
+        "Name": "Jeremy Piven",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/jeremypiven",
+        "Instagram": "https:\/\/www.instagram.com\/jeremypiven\/",
+        "hash": "342685e6af40c5629dc7be0007d22e93"
+    },
+    {
+        "Name": "Jerry Seinfeld",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/JerrySeinfeld",
+        "Instagram": "https:\/\/www.instagram.com\/jerryseinfeld",
+        "hash": "a5858d7d0ebffb043b1c1aab6673ba31"
+    },
+    {
+        "Name": "Jimmy Fallon",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@jimmyfallon",
+        "Twitter (X)": "https:\/\/twitter.com\/jimmyfallon",
+        "Instagram": "https:\/\/www.instagram.com\/jimmyfallon",
+        "hash": "fd7e09b4978dba776845f8e81ba81ce8"
+    },
+    {
+        "Name": "Jimmy Kimmel",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/jimmykimmel",
+        "Instagram": "https:\/\/www.instagram.com\/jimmykimmel",
+        "hash": "267fdad22bf8011076b3b54144e6c5e7"
+    },
+    {
+        "Name": "Joe Jonas",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@joejonas",
+        "Twitter (X)": "https:\/\/twitter.com\/joejonas",
+        "Instagram": "https:\/\/www.instagram.com\/joejonas",
+        "hash": "cebf391be904f86950f74482e178b06e"
+    },
+    {
+        "Name": "Jojo Siwa",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@itsjojosiwa",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/itsjojosiwa",
+        "hash": "016c6231ba271ab3ab7d6071e3f8bbc4"
+    },
+    {
+        "Name": "Jonah Platt",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/JonahPlatt",
+        "Instagram": "https:\/\/www.instagram.com\/jonahplatt\/",
+        "hash": "e3f414df3fbef0a98332d66d6e937965"
+    },
+    {
+        "Name": "Josh Peck",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "https:\/\/www.tiktok.com\/@joshpeck",
+        "Twitter (X)": "https:\/\/twitter.com\/ItsJoshPeck",
+        "Instagram": "https:\/\/www.instagram.com\/shuapeck",
+        "hash": "d79651cec59e8ce5e272a5195c9bf1b5"
+    },
+    {
+        "Name": "Jude Law",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/judehlaw\/",
+        "hash": "d69a800dd8541b8ac8ca969e131e1edd"
+    },
+    {
+        "Name": "Kanye West",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@ye",
+        "Twitter (X)": "https:\/\/twitter.com\/kanyewest",
+        "Instagram": "",
+        "hash": "729b332d2a1c3f90bc12659569401801"
+    },
+    {
+        "Name": "Karen Allen",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/karenallenofficial",
+        "hash": "0938f00d8ae13dd6dd7e3e61553dc6fd"
+    },
+    {
+        "Name": "Keith Urban",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/KeithUrban",
+        "Instagram": "https:\/\/www.instagram.com\/keithurban",
+        "hash": "3a961509eaf9c0276df82b52143c2413"
+    },
+    {
+        "Name": "Kendall Jenner",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "https:\/\/www.tiktok.com\/@kendalljenner",
+        "Twitter (X)": "https:\/\/twitter.com\/KendallJenner",
+        "Instagram": "https:\/\/www.instagram.com\/kendalljenner",
+        "hash": "b6117617995a6e00aef2aceeb516136e"
+    },
+    {
+        "Name": "Kevin Hart",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@imkevinhart",
+        "Twitter (X)": "https:\/\/twitter.com\/KevinHart4real",
+        "Instagram": "https:\/\/www.instagram.com\/kevinhart4real",
+        "hash": "72bb151730fa9520c8cb7bbb0f0b4e14"
+    },
+    {
+        "Name": "Kevin Jonas",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@kevinjonas",
+        "Twitter (X)": "https:\/\/twitter.com\/kevinjonas",
+        "Instagram": "https:\/\/www.instagram.com\/kevinjonas",
+        "hash": "ce6e460a8662184cc53b337cd801725a"
+    },
+    {
+        "Name": "Kim Kardashian",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "https:\/\/www.tiktok.com\/@kimkardashian",
+        "Twitter (X)": "https:\/\/twitter.com\/KimKardashian",
+        "Instagram": "https:\/\/www.instagram.com\/kimkardashian",
+        "hash": "2625391a70b010faa2bf14a8c2f55529"
+    },
+    {
+        "Name": "Kylie Jenner",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "https:\/\/www.tiktok.com\/@kyliejenner",
+        "Twitter (X)": "https:\/\/twitter.com\/KylieJenner",
+        "Instagram": "https:\/\/www.instagram.com\/kyliejenner",
+        "hash": "fe1164c06c546994645c85216d99a09a"
+    },
+    {
+        "Name": "Lady Gaga",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@ladygaga",
+        "Twitter (X)": "https:\/\/twitter.com\/ladygaga",
+        "Instagram": "https:\/\/www.instagram.com\/ladygaga",
+        "hash": "09488a6484f973a64d1a686f464da87e"
+    },
+    {
+        "Name": "Lana Del Rey",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/LanaDelRey",
+        "Instagram": "https:\/\/www.instagram.com\/honeymoon\/",
+        "hash": "cc1e3a4a210d2b2d92fa83830e6d3af0"
+    },
+    {
+        "Name": "Liev Schreiber",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/LievSchreiber",
+        "Instagram": "https:\/\/www.instagram.com\/lievschreiber\/",
+        "hash": "8eb4f3316aaf4a7e253b0830b3b68faa"
+    },
+    {
+        "Name": "Lizzo",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@lizzo",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/lizzobeeating",
+        "hash": "35d4d36ea07aaa2e85986dfa3ce4b20c"
+    },
+    {
+        "Name": "Mariah Carey",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@mariahcarey",
+        "Twitter (X)": "https:\/\/twitter.com\/MariahCarey",
+        "Instagram": "https:\/\/www.instagram.com\/mariahcarey",
+        "hash": "cffd871aac30737a97a534f54e308fde"
+    },
+    {
+        "Name": "Mark Hamill",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "https:\/\/www.tiktok.com\/@hamillhimself",
+        "Twitter (X)": "https:\/\/twitter.com\/MarkHamill",
+        "Instagram": "https:\/\/www.instagram.com\/markhamill",
+        "hash": "830622df2783de3016ce14b756477e09"
+    },
+    {
+        "Name": "Mayim Bialik",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "https:\/\/www.tiktok.com\/@mayimbialik",
+        "Twitter (X)": "https:\/\/www.tiktok.com\/@mayimbialik",
+        "Instagram": "https:\/\/www.instagram.com\/missmayim",
+        "hash": "6c530e4ae29242b78d95c9d0d5213892"
+    },
+    {
+        "Name": "Meg Ryan",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/RealMegRyan",
+        "Instagram": "https:\/\/www.instagram.com\/megryan",
+        "hash": "238a717beffb83d9d27f6ba118666513"
+    },
+    {
+        "Name": "Michael Douglas",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/kdouglasmichael",
+        "Instagram": "https:\/\/www.instagram.com\/michaelkirkdouglas",
+        "hash": "871cb7c1ee38d3d7cf2b437e3610a3f2"
+    },
+    {
+        "Name": "Michael Rosenbaum",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "https:\/\/www.tiktok.com\/@insideofyou_podcast",
+        "Twitter (X)": "https:\/\/twitter.com\/michaelrosenbum",
+        "Instagram": "https:\/\/www.instagram.com\/themichaelrosenbaum",
+        "hash": "fef24d0eceaeb47541c50b5a128ba236"
+    },
+    {
+        "Name": "Naomi Watts",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/_NaomiWatts_",
+        "Instagram": "https:\/\/www.instagram.com\/naomiwatts",
+        "hash": "0686b74b83511980dc196e835b88a0f9"
+    },
+    {
+        "Name": "Nick Jonas",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@nickjonas",
+        "Twitter (X)": "https:\/\/twitter.com\/nickjonas",
+        "Instagram": "https:\/\/www.instagram.com\/nickjonas",
+        "hash": "72884441ceeb7a8587ea5c25e849615a"
+    },
+    {
+        "Name": "Nicki Minaj",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@nickiminaj",
+        "Twitter (X)": "https:\/\/twitter.com\/NICKIMINAJ",
+        "Instagram": "https:\/\/www.instagram.com\/nickiminaj",
+        "hash": "206852b9306afa2b3c5dc232aab226f1"
+    },
+    {
+        "Name": "Nicole Kidman",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/nicolekidman",
+        "hash": "cfd6abdcb1818ae4233dd7a0d6d5e1a6"
+    },
+    {
+        "Name": "Noah Schnapp",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@noahschnapp",
+        "Twitter (X)": "https:\/\/twitter.com\/noah_schnapp",
+        "Instagram": "https:\/\/www.instagram.com\/noahschnapp",
+        "hash": "c720b37b5466b993edbaa23b0bf3c759"
+    },
+    {
+        "Name": "Oprah",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@oprah",
+        "Twitter (X)": "https:\/\/twitter.com\/Oprah",
+        "Instagram": "https:\/\/www.instagram.com\/Oprah",
+        "hash": "f34a124aaf2b99fedbb52d6d9915791c"
+    },
+    {
+        "Name": "Selena Gomez",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@selenagomez",
+        "Twitter (X)": "https:\/\/twitter.com\/selenagomez",
+        "Instagram": "https:\/\/www.instagram.com\/selenagomez",
+        "hash": "401a284fda3e4513d672a45ec3d6d142"
+    },
+    {
+        "Name": "Seth Meyers",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/sethmeyers",
+        "Instagram": "https:\/\/www.instagram.com\/sethmeyers",
+        "hash": "de4c09312c05be7f34cb891872d1373b"
+    },
+    {
+        "Name": "Shakira",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "https:\/\/www.tiktok.com\/@shakira",
+        "Twitter (X)": "https:\/\/twitter.com\/shakira",
+        "Instagram": "http:\/\/www.instagram.com\/shakira",
+        "hash": "259a8d89684788987942263528121bd0"
+    },
+    {
+        "Name": "Stephen Colbert",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/StephenAtHome",
+        "Instagram": "https:\/\/www.instagram.com\/stephenathome",
+        "hash": "babb1d7afb5979ef60309417bf57964f"
+    },
+    {
+        "Name": "Stephen Fry",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/stephenfry",
+        "Instagram": "https:\/\/www.instagram.com\/stephenfryactually",
+        "hash": "810b9c9fc3e230a43f15eabb34e95f44"
+    },
+    {
+        "Name": "Sydney Sweeney",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/sydney_sweeney",
+        "Instagram": "https:\/\/www.instagram.com\/sydney_sweeney",
+        "hash": "02c7054ca422b646062b8412df6ba60f"
+    },
+    {
+        "Name": "Taylor Swift",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@taylorswift",
+        "Twitter (X)": "https:\/\/twitter.com\/taylorswift13",
+        "Instagram": "https:\/\/www.instagram.com\/taylorswift",
+        "hash": "7ae068e144aab71b5c9f9b0a517ade9f"
+    },
+    {
+        "Name": "Tiffany Haddish",
+        "Date Added": "5\/9\/2024",
+        "Why": "College Campuses Rant",
+        "Tiktok": "https:\/\/www.tiktok.com\/@tiffanyhaddish",
+        "Twitter (X)": "https:\/\/twitter.com\/TiffanyHaddish",
+        "Instagram": "https:\/\/www.instagram.com\/tiffanyhaddish",
+        "hash": "e521a9d4f6e15a7451799e9ffa208f22"
+    },
+    {
+        "Name": "Timothee Chalamet",
+        "Date Added": "5\/9\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@timotheechalameet",
+        "Twitter (X)": "https:\/\/www.twitter.com\/RealChalamet",
+        "Instagram": "https:\/\/www.instagram.com\/tchalamet",
+        "hash": "498083db23fd734260429b9eabe09fd8"
+    },
+    {
+        "Name": "Usher",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "https:\/\/www.tiktok.com\/@usher",
+        "Twitter (X)": "https:\/\/twitter.com\/Usher",
+        "Instagram": "https:\/\/www.instagram.com\/usher",
+        "hash": "02e6b906fe74c66cede1a70b0735c085"
+    },
+    {
+        "Name": "Zachary Levi",
+        "Date Added": "5\/9\/2024",
+        "Why": "Hollywood Open Letter",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/ZacharyLevi",
+        "Instagram": "https:\/\/www.instagram.com\/zacharylevi",
+        "hash": "9c18c717b0be7860f551b0db06e6364d"
+    },
+    {
+        "Name": "Zendaya",
+        "Date Added": "5\/9\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/Zendaya",
+        "Instagram": "https:\/\/www.instagram.com\/zendaya",
+        "hash": "0637b8d17a0b789adad4173e03da1255"
+    },
+    {
+        "Name": "Adam Levine",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@adamlevine",
+        "Twitter (X)": "https:\/\/twitter.com\/adamlevine",
+        "Instagram": "https:\/\/www.instagram.com\/adamlevine",
+        "hash": "229ce4f92e5930cc425471c1035dada4"
+    },
+    {
+        "Name": "Adam Sandler",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/AdamSandler",
+        "Instagram": "https:\/\/www.instagram.com\/adamsandler",
+        "hash": "dfaa815a18f38cd5737f9fd73b907d6e"
+    },
+    {
+        "Name": "Addison Rae",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@addisonre",
+        "Twitter (X)": "https:\/\/twitter.com\/whoisaddison",
+        "Instagram": "https:\/\/www.instagram.com\/addisonraee",
+        "hash": "0ce5c0149ce6ee3054cbfce46061098d"
+    },
+    {
+        "Name": "Alex Edelman",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@alexedelman",
+        "Twitter (X)": "https:\/\/twitter.com\/AlexEdelman",
+        "Instagram": "https:\/\/www.instagram.com\/alexedelman\/",
+        "hash": "b3907edb78f4df36bc793ab8043a80b7"
+    },
+    {
+        "Name": "Andy Cohen",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@andycohen",
+        "Twitter (X)": "https:\/\/twitter.com\/andy",
+        "Instagram": "https:\/\/www.instagram.com\/bravoandy",
+        "hash": "172e4b52099299ad008f697bfbc13719"
+    },
+    {
+        "Name": "Aubrey Plaza",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/evilhag",
+        "Instagram": "https:\/\/www.instagram.com\/plazadeaubrey",
+        "hash": "af99612ffec0395944431a59261b2c20"
+    },
+    {
+        "Name": "Bella Poarch",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@bellapoarch",
+        "Twitter (X)": "https:\/\/twitter.com\/bellapoarch",
+        "Instagram": "https:\/\/www.instagram.com\/bellapoarch",
+        "hash": "d2735850760c804fa2ca42bb4af49424"
+    },
+    {
+        "Name": "Ben Stiller",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/BenStiller",
+        "Instagram": "https:\/\/www.instagram.com\/benstiller",
+        "hash": "e28dd02991127bdf524a4b6f5a0e21b9"
+    },
+    {
+        "Name": "Billie Eilish",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@billieeilish",
+        "Twitter (X)": "https:\/\/twitter.com\/billieeilish",
+        "Instagram": "https:\/\/www.instagram.com\/billieeilish",
+        "hash": "be05b49960df40ff2a1c9ceff6afe302"
+    },
+    {
+        "Name": "Billy Crystal",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/BillyCrystal",
+        "Instagram": "https:\/\/www.instagram.com\/thebillycrystal",
+        "hash": "4eb7fffbaeba8d55316a5fdb0ec1f6a2"
+    },
+    {
+        "Name": "Bob Odenkirk",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/mrbobodenkirk",
+        "Instagram": "https:\/\/www.instagram.com\/therealbobodenkirk",
+        "hash": "4e93978e156aebf9dc327e5556fff1d9"
+    },
+    {
+        "Name": "Brooke Shields",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@brookeshieldsofficial",
+        "Twitter (X)": "https:\/\/twitter.com\/BrookeShields",
+        "Instagram": "https:\/\/www.instagram.com\/brookeshields",
+        "hash": "9d090d8bf000f7218cee9cadefe39d18"
+    },
+    {
+        "Name": "Camila Mendes",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@camimendes",
+        "Twitter (X)": "https:\/\/twitter.com\/camilamendes",
+        "Instagram": "https:\/\/www.instagram.com\/camimendes",
+        "hash": "a2cf3bda0c9f49afb0e73d6ad228166c"
+    },
+    {
+        "Name": "Charli D'Amelio",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@charlidamelio",
+        "Twitter (X)": "https:\/\/twitter.com\/charlidamelio",
+        "Instagram": "https:\/\/www.instagram.com\/charlidamelio",
+        "hash": "e0f8750a3b0d5eaef80c0bc70578e742"
+    },
+    {
+        "Name": "Chelsea Handler",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@chelseahandler",
+        "Twitter (X)": "https:\/\/twitter.com\/chelseahandler",
+        "Instagram": "https:\/\/www.instagram.com\/chelseahandler",
+        "hash": "b4a903844ddf1e6bfe1d1b4d2b1bb526"
+    },
+    {
+        "Name": "Chloe Fineman",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@chloefineman",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/chloeiscrazy\/",
+        "hash": "2a937e6a46c117541cc84e73a49256be"
+    },
+    {
+        "Name": "Chris Jericho",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@chrisjericho",
+        "Twitter (X)": "https:\/\/twitter.com\/IAmJericho",
+        "Instagram": "https:\/\/www.instagram.com\/chrisjerichofozzy",
+        "hash": "1834c4a3e7a9805e67c2e61aa8a8b4e1"
+    },
+    {
+        "Name": "Chris Rock",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@chrisrock",
+        "Twitter (X)": "https:\/\/twitter.com\/chrisrock",
+        "Instagram": "https:\/\/www.instagram.com\/chrisrock",
+        "hash": "fb8a69f1717e6e043c51777ce7ebfd8d"
+    },
+    {
+        "Name": "Constance Wu",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/constancewu",
+        "Instagram": "https:\/\/www.instagram.com\/constancewu",
+        "hash": "cb9c22f02190fa29b5f2f5678a74fed5"
+    },
+    {
+        "Name": "Courteney Cox",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@courteneycoxofficial",
+        "Twitter (X)": "https:\/\/twitter.com\/CourteneyCox",
+        "Instagram": "https:\/\/www.instagram.com\/courteneycoxofficial",
+        "hash": "2c615e2db24ff46110522ae27e70b223"
+    },
+    {
+        "Name": "Dan Levy",
+        "Date Added": "5\/10\/2024",
+        "Why": "Met Gala",
+        "Tiktok": "https:\/\/www.tiktok.com\/@danjlevy",
+        "Twitter (X)": "https:\/\/twitter.com\/danjlevy",
+        "Instagram": "https:\/\/www.instagram.com\/instadanjlevy",
+        "hash": "36878045c1b8b3670c073b3b676d7dd4"
+    },
+    {
+        "Name": "David Alan Grier",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/davidalangrier",
+        "Instagram": "https:\/\/www.instagram.com\/davidalangrier",
+        "hash": "0c53c312d2b1261102e8b9bb96df6acd"
+    },
+    {
+        "Name": "David Schwimmer",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/DavidSchwimmer",
+        "Instagram": "https:\/\/www.instagram.com\/_schwim_",
+        "hash": "3b67afcd7063598298c1854e7905c60d"
+    },
+    {
+        "Name": "Dean Cain",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/realdeancain",
+        "Instagram": "https:\/\/www.instagram.com\/deuces1966\/",
+        "hash": "b3a7a8d50dfc72d56c61e09bb7497478"
+    },
+    {
+        "Name": "Debra Messing",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@therealdebramessing",
+        "Twitter (X)": "https:\/\/twitter.com\/debramessing",
+        "Instagram": "https:\/\/www.instagram.com\/therealdebramessing\/",
+        "hash": "b82a2f2bf5e9ab159942975988ffd016"
+    },
+    {
+        "Name": "Dixie D'Amelio",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@dixiedamelio",
+        "Twitter (X)": "https:\/\/twitter.com\/dixiedamelio",
+        "Instagram": "https:\/\/www.instagram.com\/dixiedamelio",
+        "hash": "ec9655e89973d09df9a82e4f17a6a313"
+    },
+    {
+        "Name": "Erin Foster",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@erintiktokman",
+        "Twitter (X)": "https:\/\/twitter.com\/efosta",
+        "Instagram": "https:\/\/www.instagram.com\/erinfoster\/",
+        "hash": "0d8053fc0c122bcbb0a9bc94cf05be7c"
+    },
+    {
+        "Name": "Eugene Levy",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/Realeugenelevy",
+        "Instagram": "",
+        "hash": "2bcfff848a17293b51b6ae969c186896"
+    },
+    {
+        "Name": "Eva Mendes",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/evamendes",
+        "Instagram": "https:\/\/www.instagram.com\/evamendes",
+        "hash": "eabb6544eb176dec1c6d09d09e727963"
+    },
+    {
+        "Name": "Gordon Ramsay",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@gordonramsayofficial",
+        "Twitter (X)": "https:\/\/twitter.com\/GordonRamsay",
+        "Instagram": "https:\/\/www.instagram.com\/gordongram",
+        "hash": "8c6ba3269f12bd44a3513280bd0797cf"
+    },
+    {
+        "Name": "Gwyneth Paltrow",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/GwynethPaltrow",
+        "Instagram": "https:\/\/www.instagram.com\/gwynethpaltrow",
+        "hash": "3be5435dbf7fe596e5dfc8b26266b82b"
+    },
+    {
+        "Name": "Henry Winkler",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@henry.winkler",
+        "Twitter (X)": "https:\/\/twitter.com\/hwinkler4real",
+        "Instagram": "https:\/\/www.instagram.com\/hwinkler4real\/",
+        "hash": "ccf4cbf8779e0786aa470e4681e74ba6"
+    },
+    {
+        "Name": "Isla Fisher",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/islafisher",
+        "hash": "f8e79f877131cb62f75911e624655ed1"
+    },
+    {
+        "Name": "Jack Black",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@jackblack",
+        "Twitter (X)": "https:\/\/twitter.com\/jackblack",
+        "Instagram": "https:\/\/www.instagram.com\/jackblack",
+        "hash": "ced6bcc4a4f04fbc93caa74b34557df8"
+    },
+    {
+        "Name": "James Brolin",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/jamesbrolin_",
+        "hash": "bd811fd47979a4d3b11113815dbc0ad8"
+    },
+    {
+        "Name": "James Corden",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/JKCorden",
+        "Instagram": "https:\/\/www.instagram.com\/j_corden",
+        "hash": "0adf64dc9986fab0545496617f934211"
+    },
+    {
+        "Name": "Jason Derulo",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@jasonderulo",
+        "Twitter (X)": "https:\/\/twitter.com\/jasonderulo",
+        "Instagram": "https:\/\/www.instagram.com\/jasonderulo",
+        "hash": "ab1fb90d06e5a07f1f1c44c55c9ece47"
+    },
+    {
+        "Name": "Jason Reitman",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/JasonReitman",
+        "Instagram": "https:\/\/www.instagram.com\/jasonreitman\/",
+        "hash": "6a164b1053d8d5626cc638c0a63610cb"
+    },
+    {
+        "Name": "Jason Segel",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/jasonsegel",
+        "Instagram": "https:\/\/www.instagram.com\/jasonsegel",
+        "hash": "9d30241a17998fdeca4e753231e49c4f"
+    },
+    {
+        "Name": "Jason Sudeikis",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/jasonsudeikis",
+        "Instagram": "https:\/\/www.instagram.com\/jason_sudeikis",
+        "hash": "2648b8db49b2f7eb520696c29e01c375"
+    },
+    {
+        "Name": "Jeff Goldblum",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@jeffgoldblum",
+        "Twitter (X)": "https:\/\/twitter.com\/jeffreygoldbium",
+        "Instagram": "https:\/\/www.instagram.com\/jeffgoldblum",
+        "hash": "c2a0b82c2791248500893d63f61f655f"
+    },
+    {
+        "Name": "Jesse Plemons",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/garyfromgamenight",
+        "hash": "e6a4e63023d9d97d9aeeefa92338dc33"
+    },
+    {
+        "Name": "Jessica Biel",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@jessbiel",
+        "Twitter (X)": "https:\/\/twitter.com\/JessicaBiel",
+        "Instagram": "https:\/\/www.instagram.com\/jessicabiel",
+        "hash": "68c8736bd4ae00c5ae5ae406e3c07a55"
+    },
+    {
+        "Name": "Jimmy Carr",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@jimmycarr",
+        "Twitter (X)": "https:\/\/twitter.com\/jimmycarr",
+        "Instagram": "https:\/\/www.instagram.com\/jimmycarr",
+        "hash": "dd351eea51c728589cf52d8a1b257491"
+    },
+    {
+        "Name": "Joey King",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@joeyking",
+        "Twitter (X)": "https:\/\/twitter.com\/JoeyKing",
+        "Instagram": "https:\/\/www.instagram.com\/joeyking",
+        "hash": "3d1f398fa4308b19cd2dad6efbbe5b7c"
+    },
+    {
+        "Name": "Jon Hamm",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/JonMHamm",
+        "Instagram": "https:\/\/www.instagram.com\/bestofjonhamm\/",
+        "hash": "723382e06ddd99b987e01b09cbb544c3"
+    },
+    {
+        "Name": "Jonathan Ross",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@jrossshow",
+        "Twitter (X)": "https:\/\/twitter.com\/wossy",
+        "Instagram": "https:\/\/www.instagram.com\/mewossy\/",
+        "hash": "afb3c40665f1e5018be994c42aa6d1ec"
+    },
+    {
+        "Name": "Jordan Peele",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/jordanpeele",
+        "Instagram": "https:\/\/www.instagram.com\/jordanpeele\/",
+        "hash": "fa2cb13c6690c75fce97bae6953bd9ce"
+    },
+    {
+        "Name": "Josh Brolin",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/thejoshbrolin",
+        "Instagram": "https:\/\/www.instagram.com\/joshbrolin",
+        "hash": "2b07a45760272788c01b4e9ec63e3f03"
+    },
+    {
+        "Name": "Judd Apatow",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/JuddApatow",
+        "Instagram": "https:\/\/www.instagram.com\/juddapatow\/",
+        "hash": "f8b3e6b0a20997f6bc04e0002e5a0c87"
+    },
+    {
+        "Name": "Judge Judy Sheindlin",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@judgejudy",
+        "Twitter (X)": "https:\/\/twitter.com\/JudgeJudy",
+        "Instagram": "https:\/\/www.instagram.com\/judgejudytv",
+        "hash": "4f68da9fcbba97efb64c35e1cbc36496"
+    },
+    {
+        "Name": "Julia Garner",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/juliagarner94",
+        "Instagram": "https:\/\/www.instagram.com\/juliagarnerofficial",
+        "hash": "241fa27c68998ff369cd58e9082a7211"
+    },
+    {
+        "Name": "Justin Theroux",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/justintheroux",
+        "hash": "e9d55d06f111436f94b0decd67847911"
+    },
+    {
+        "Name": "Justin Timberlake",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@justintimberlake",
+        "Twitter (X)": "https:\/\/twitter.com\/jtimberlake",
+        "Instagram": "https:\/\/www.instagram.com\/justintimberlake",
+        "hash": "1629c2fdb3159e4ae19de0d2fca5f3be"
+    },
+    {
+        "Name": "Karlie Kloss",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@karliekloss",
+        "Twitter (X)": "https:\/\/twitter.com\/karliekloss",
+        "Instagram": "https:\/\/www.instagram.com\/karliekloss\/",
+        "hash": "4beeff498ae7db9d67388ecfdfbb28b3"
+    },
+    {
+        "Name": "Katy Perry",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@katyperry",
+        "Twitter (X)": "https:\/\/twitter.com\/katyperry",
+        "Instagram": "https:\/\/www.instagram.com\/katyperry",
+        "hash": "f273e8985c1ccf881041fc47f59b8a74"
+    },
+    {
+        "Name": "Khabane Lame",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@khaby.lame",
+        "Twitter (X)": "https:\/\/twitter.com\/KhabyLame",
+        "Instagram": "https:\/\/www.instagram.com\/khaby00",
+        "hash": "18b5b39cdecaa4b867c11fd84f455112"
+    },
+    {
+        "Name": "Kim and North",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@kimandnorth",
+        "Twitter (X)": "",
+        "Instagram": "",
+        "hash": "9e594f474738bc7b8ed713af8e0956f2"
+    },
+    {
+        "Name": "Kimberly Loaiza",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@kimberly.loaiza",
+        "Twitter (X)": "https:\/\/twitter.com\/kimberlyloaiza_",
+        "Instagram": "https:\/\/www.instagram.com\/kimberly.loaiza",
+        "hash": "f6ec1d89eb1a6afd5babd31022dd4e04"
+    },
+    {
+        "Name": "Kirsten Dunst",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/kirstendunst",
+        "Instagram": "https:\/\/www.instagram.com\/kirstendunst",
+        "hash": "17b43c698e4a1eb70833b1a0fc7d9aed"
+    },
+    {
+        "Name": "Kourtney Kardashian",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@kourtneykardashian",
+        "Twitter (X)": "",
+        "Instagram": "",
+        "hash": "40e798c85caa709cd36cd73ff77a8bb7"
+    },
+    {
+        "Name": "Kristin Chenoweth",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@kristinchenoweth",
+        "Twitter (X)": "https:\/\/twitter.com\/KChenoweth",
+        "Instagram": "https:\/\/www.instagram.com\/kchenoweth",
+        "hash": "029477c8452c8f5022f01c4c82d6f955"
+    },
+    {
+        "Name": "Kristina Collins",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@kallmekris",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/kriscollins",
+        "hash": "cdedb9f7bc5b012be0d02d5289483102"
+    },
+    {
+        "Name": "Laura Dern",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/LauraDern",
+        "Instagram": "https:\/\/www.instagram.com\/lauradern",
+        "hash": "68609b15ab64035742510ecfd7d477d6"
+    },
+    {
+        "Name": "Lea Michele",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@leamichele",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/leamichele",
+        "hash": "1ba547b92f1aec7aeb0c56fe7c991d59"
+    },
+    {
+        "Name": "Madonna",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@madonna",
+        "Twitter (X)": "https:\/\/twitter.com\/Madonna",
+        "Instagram": "https:\/\/www.instagram.com\/madonna",
+        "hash": "7dc4e2581480c301945a82e5b6df5b9e"
+    },
+    {
+        "Name": "Mark Foster",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@markiforsti",
+        "Twitter (X)": "https:\/\/twitter.com\/marcuswest99",
+        "Instagram": "https:\/\/www.instagram.com\/markfoster\/",
+        "hash": "c833cc947f77a98deb3231f61f9852f6"
+    },
+    {
+        "Name": "Mary Elizabeth Winstead",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/mobile.twitter.com\/MaryWinsteadNet",
+        "Instagram": "",
+        "hash": "a5c7a2d114d229d60ffbe2e808949cda"
+    },
+    {
+        "Name": "Megan Thee Stallion",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@theestallion",
+        "Twitter (X)": "https:\/\/twitter.com\/theestallion",
+        "Instagram": "https:\/\/www.instagram.com\/theestallion",
+        "hash": "b75e6a3a46a853458f1c6f578539aeb0"
+    },
+    {
+        "Name": "Michael Rapaport",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@michaelrapaport",
+        "Twitter (X)": "https:\/\/twitter.com\/MichaelRapaport",
+        "Instagram": "https:\/\/www.instagram.com\/michaelrapaport",
+        "hash": "d2e3a46a7213f2dac0c0033fbc948cd1"
+    },
+    {
+        "Name": "Mila Kunis",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@mkutcher",
+        "Twitter (X)": "https:\/\/twitter.com\/MilaKunisv",
+        "Instagram": "",
+        "hash": "867962431bf28bd9c8d1d1ec7c54a683"
+    },
+    {
+        "Name": "Millie Bobby Brown",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/Milliestopshate",
+        "Instagram": "https:\/\/www.instagram.com\/milliebobbybrown",
+        "hash": "d782674ea099e9e357e199e23e14f99f"
+    },
+    {
+        "Name": "Molly Shannon",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/theofficialsuperstar\/",
+        "hash": "ea785b8b2f42482c8b1bda4a4b98c484"
+    },
+    {
+        "Name": "MrBeast",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@mrbeast",
+        "Twitter (X)": "https:\/\/twitter.com\/MrBeast",
+        "Instagram": "https:\/\/www.instagram.com\/mrbeast",
+        "hash": "6779ca4730c80b7dce3b8d77b6bc1933"
+    },
+    {
+        "Name": "Natalie Portman",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/natalieportman",
+        "hash": "e421ecf783793835aaed1fe7ed00e7bb"
+    },
+    {
+        "Name": "Nicola Peltz",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@nicolapeltzbeckham",
+        "Twitter (X)": "https:\/\/twitter.com\/nicolaannepeltz",
+        "Instagram": "https:\/\/www.instagram.com\/nicolaannepeltzbeckham",
+        "hash": "925f71990bfbfa986091e64d121e5492"
+    },
+    {
+        "Name": "Nina Dobrev",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@nina",
+        "Twitter (X)": "https:\/\/twitter.com\/ninadobrev",
+        "Instagram": "https:\/\/www.instagram.com\/nina",
+        "hash": "05e14fdae63f0758ea64273bdf8194d8"
+    },
+    {
+        "Name": "Olivia Wilde",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/oliviawilde",
+        "Instagram": "https:\/\/www.instagram.com\/oliviawilde",
+        "hash": "0d54b1f7d55d1f4141973d2e8dcc5c99"
+    },
+    {
+        "Name": "Orlando Bloom",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/OrlandoJB_Bloom",
+        "Instagram": "https:\/\/www.instagram.com\/orlandobloom",
+        "hash": "072e871c2a7fa224649d1b01537631d9"
+    },
+    {
+        "Name": "Rihanna",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@rihanna",
+        "Twitter (X)": "https:\/\/twitter.com\/rihanna",
+        "Instagram": "https:\/\/www.instagram.com\/badgalriri",
+        "hash": "5285577208aaf9b65dba1e3257ef22a8"
+    },
+    {
+        "Name": "Rob Kardashian",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/robkardashian",
+        "Instagram": "https:\/\/www.instagram.com\/robkardashianofficial",
+        "hash": "77e1c23696933557d653a6d807785081"
+    },
+    {
+        "Name": "Rosie O\u2019Donnell",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@rosie",
+        "Twitter (X)": "https:\/\/twitter.com\/Rosie",
+        "Instagram": "https:\/\/www.instagram.com\/rosie",
+        "hash": "00a689c16ed65bf0e6a9bd053c32e4a2"
+    },
+    {
+        "Name": "Sacha Baron Cohen",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/SachaBaronCohen",
+        "Instagram": "https:\/\/www.instagram.com\/sachabaroncohen",
+        "hash": "593f2a5a503ae6ac9870461a4dfe4e44"
+    },
+    {
+        "Name": "Sarah Paulson",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/MsSarahPaulson",
+        "Instagram": "https:\/\/www.instagram.com\/mssarahcatharinepaulson",
+        "hash": "12829b8621c838cca5199c310c671b76"
+    },
+    {
+        "Name": "Sean Combs",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@diddy",
+        "Twitter (X)": "https:\/\/twitter.com\/Diddy",
+        "Instagram": "https:\/\/www.instagram.com\/diddy",
+        "hash": "32977d467109d09b619db0056be9a85e"
+    },
+    {
+        "Name": "Sharon Stone",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "",
+        "Instagram": "https:\/\/www.instagram.com\/sharonstone",
+        "hash": "620d6768b669c99a11fe7e69986d28a2"
+    },
+    {
+        "Name": "Shawn Levy",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/shawnlevydirect",
+        "Instagram": "https:\/\/www.instagram.com\/slevydirect\/",
+        "hash": "7c293c596ca1d2718dfd6808a0fc24ed"
+    },
+    {
+        "Name": "Sting",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@official_sting",
+        "Twitter (X)": "https:\/\/twitter.com\/OfficialSting",
+        "Instagram": "https:\/\/www.instagram.com\/theofficialsting",
+        "hash": "3ccca65d3d9843b81f4e251dcf8a3e8c"
+    },
+    {
+        "Name": "Taika Waititi",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "https:\/\/www.tiktok.com\/@taikawaititi",
+        "Twitter (X)": "https:\/\/twitter.com\/TaikaWaititi",
+        "Instagram": "https:\/\/www.instagram.com\/taikawaititi",
+        "hash": "adbddce627ca223f8c6233bd6d8eb1f9"
+    },
+    {
+        "Name": "Tyler Perry",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/tylerperry",
+        "Instagram": "https:\/\/www.instagram.com\/tylerperry",
+        "hash": "f9a63be9f0a7fbe3e30a5f8b62b748a0"
+    },
+    {
+        "Name": "Victoria Justice",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@victoriajustice",
+        "Twitter (X)": "https:\/\/twitter.com\/VictoriaJustice",
+        "Instagram": "https:\/\/www.instagram.com\/victoriajustice",
+        "hash": "96798dc7aaf7985873ee4bb5f1769129"
+    },
+    {
+        "Name": "Will Smith",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@willsmith",
+        "Twitter (X)": "https:\/\/twitter.com\/willsmith2real",
+        "Instagram": "https:\/\/www.instagram.com\/willsmith\/",
+        "hash": "27252c61188fba7e3abbcdd7fc0a23bf"
+    },
+    {
+        "Name": "Zack Snyder",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/ZackSnyder",
+        "Instagram": "https:\/\/www.instagram.com\/snydercut\/",
+        "hash": "700ca3cebfc310524c9e7755e47ebb25"
+    },
+    {
+        "Name": "Zoe Saldana",
+        "Date Added": "5\/10\/2024",
+        "Why": "Letter to Biden",
+        "Tiktok": "",
+        "Twitter (X)": "https:\/\/twitter.com\/zoesaldana",
+        "Instagram": "https:\/\/www.instagram.com\/zoesaldana",
+        "hash": "8be980cb46991d14962f85a0401d2c2f"
+    },
+    {
+        "Name": "Jared Leto",
+        "Date Added": "5\/10\/2024",
+        "Why": "Inaction",
+        "Tiktok": "https:\/\/www.tiktok.com\/@jaredleto",
+        "Twitter (X)": "https:\/\/www.tiktok.com\/@jaredleto",
+        "Instagram": "https:\/\/www.instagram.com\/jaredleto",
+        "hash": "ca5554c9d1af7305d5cb0f096e3805cd"
+    }
 ]

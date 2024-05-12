@@ -44,43 +44,24 @@ $(document).ready(function()
         return (100 * partialValue) / totalValue;
     }
 
-    function quickhash(str) {
-        let hash = 0;
-        if (str.length === 0) return hash;
-        let i;
-        for (i = 0; i < str.length; i++) {
-            let char;
-            char = str.charCodeAt(i);
-            hash = ((hash<<5)-hash)+char;
-            hash = hash & hash; // Convert to 32bit integer
-        }
-        return hash;
-    }
-
     function changeCard() {
         if (currentCard) {
             save.history.push(currentCard['Name']);
         }
-        console.log('changing card');
         let isCardSet = false;
         while (isCardSet === false) {
             currentId = (Math.floor(Math.random() * collection.length));
-            console.log("Checking "+collection[currentId]["Name"]+"...");
             if (!save.history.includes(collection[currentId]["Name"])) {
-                console.log("GOOD!");
                 currentCard = collection[currentId];
                 isCardSet = true;
-            } else {
-                console.log("REJECTED");
             }
         }
         currentCard = collection[currentId];
-        console.log("CARD HISTORY IS", save.history);
     }
 
     function updateCard() {
         $("#card-title").html(currentCard["Name"]);
-        $("#photo").css({'background-image': 'url("https://picsum.photos/seed/'+quickhash(currentCard["Name"])+'/460/700")'});
+        $("#photo").css({'background-image': `url("/assets/cards/${currentCard["hash"]}.jpg")`});
 
         if (currentCard["Instagram"].length < 3) {
             $("#instagram").attr('href', '').hide();
@@ -90,7 +71,6 @@ $(document).ready(function()
 
         if (currentCard["Tiktok"].length < 3) {
             $("#tiktok").attr('href', '').hide();
-            // $("#tiktok").html('TikTok (Search)').attr('href', 'https://www.tiktok.com/search/user?q='+currentCard["Name"]).show();
         } else {
             $("#tiktok").html('TikTok').attr('href', currentCard["Tiktok"]).show();
         }
