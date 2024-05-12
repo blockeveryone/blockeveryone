@@ -42,7 +42,7 @@
     background-position: center center;
     background-size:contain;
 
-    @media all and (max-width:490px) {
+    @media all and (max-width:760px) {
         margin-top:80px;
     }
 
