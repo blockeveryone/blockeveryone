@@ -23,4 +23,15 @@
             </div>
         </div>
     </div>
+    <div id="pack-screen">
+        <img src="/assets/img/pack-raw.png">
+    </div>
+    <div id="reward-screen">
+        <h1 id='reward-screen-title' class="mb-8 uppercase text-center"></h1>
+        <img id='reward-screen-rank-img' src="/assets/img/rank_0.png">
+        <h5 id='reward-screen-tagline' class="mb-0 uppercase text-center"></h5>
+        <h1 id='reward-screen-rank-title' class="mt-2 uppercase"></h1>
+        <p id='reward-screen-level' class="mt-0"></p>
+        <button id="level-up-ok" type="button" class="select-none rounded-lg bg-gradient-to-tr from-gray-900 to-gray-800 py-3 px-6 text-center align-middle font-sans text-xs font-bold uppercase text-white shadow-md shadow-gray-900/10 transition-all hover:shadow-lg hover:shadow-gray-900/20 active:opacity-[0.85] disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none mt-4"></button>
+    </div>
 @stop

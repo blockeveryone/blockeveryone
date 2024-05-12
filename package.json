@@ -23,6 +23,7 @@
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
+        "howler": "^2.2.4",
         "jquery": "^3.7.1",
         "jquery-ui-dist": "^1.13.2"
     }
