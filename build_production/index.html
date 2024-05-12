@@ -16,10 +16,10 @@
         <link rel="home" href="https://blockeveryone.com">
         <link rel="icon" href="/favicon.ico">
 
-        <link rel="stylesheet" href="/assets/build/css/main.css?id=cffa59eda1599222a7a134df391809a9">
+        <link rel="stylesheet" href="/assets/build/css/main.css?id=3b3975b4fed8bf05b103d86aa8d5efc5">
     </head>
 
-    <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
+    <body class="relative flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
         <header class="flex items-center shadow bg-white border-b min-h-24 md:h-24 py-4 px-10" role="banner">
             <div class="container flex flex-col md:flex-row items-center justify-between max-w-8xl mx-auto">
                 <div class="flex justify-end items-center mb-4 md:mb-0">
@@ -36,6 +36,13 @@
                 </div>
             </div>
         </header>
+        <div class="absolute bottom-10 left-10 z-40">
+            <a href="https://github.com/blockeveryone/" target="_blank">
+                <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 30 30" width="30px" height="30px">
+                    <path d="M15,3C8.373,3,3,8.373,3,15c0,5.623,3.872,10.328,9.092,11.63C12.036,26.468,12,26.28,12,26.047v-2.051 c-0.487,0-1.303,0-1.508,0c-0.821,0-1.551-0.353-1.905-1.009c-0.393-0.729-0.461-1.844-1.435-2.526 c-0.289-0.227-0.069-0.486,0.264-0.451c0.615,0.174,1.125,0.596,1.605,1.222c0.478,0.627,0.703,0.769,1.596,0.769 c0.433,0,1.081-0.025,1.691-0.121c0.328-0.833,0.895-1.6,1.588-1.962c-3.996-0.411-5.903-2.399-5.903-5.098 c0-1.162,0.495-2.286,1.336-3.233C9.053,10.647,8.706,8.73,9.435,8c1.798,0,2.885,1.166,3.146,1.481C13.477,9.174,14.461,9,15.495,9 c1.036,0,2.024,0.174,2.922,0.483C18.675,9.17,19.763,8,21.565,8c0.732,0.731,0.381,2.656,0.102,3.594 c0.836,0.945,1.328,2.066,1.328,3.226c0,2.697-1.904,4.684-5.894,5.097C18.199,20.49,19,22.1,19,23.313v2.734 c0,0.104-0.023,0.179-0.035,0.268C23.641,24.676,27,20.236,27,15C27,8.373,21.627,3,15,3z"/>
+                </svg>
+            </a>
+        </div>
 
         <nav id="js-nav-menu" class="w-auto px-2 pt-6 pb-2 bg-gray-200 shadow hidden lg:hidden">
     <ul class="my-0">
@@ -60,7 +67,7 @@
     </ul>
 </nav>
 
-        <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-0 md:py-16 relative min-h-[640px] md:min-h-[800px]">
+        <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-0 md:py-16 min-h-[640px] md:min-h-[800px]">
                 <div class="card-wrapper">
         <div class="card">
             <div id="photo" class="photo" style="background-image: url('https://picsum.photos/seed/name/482/738')"></div>
@@ -83,23 +90,20 @@
             </div>
         </div>
     </div>
+    <div id="pack-screen">
+        <img src="/assets/img/pack-raw.png">
+    </div>
+    <div id="reward-screen">
+        <h1 id='reward-screen-title' class="mb-8 uppercase text-center"></h1>
+        <img id='reward-screen-rank-img' src="/assets/img/rank_0.png">
+        <h5 id='reward-screen-tagline' class="mb-0 uppercase text-center"></h5>
+        <h1 id='reward-screen-rank-title' class="mt-2 uppercase"></h1>
+        <p id='reward-screen-level' class="mt-0"></p>
+        <button id="level-up-ok" type="button" class="select-none rounded-lg bg-gradient-to-tr from-gray-900 to-gray-800 py-3 px-6 text-center align-middle font-sans text-xs font-bold uppercase text-white shadow-md shadow-gray-900/10 transition-all hover:shadow-lg hover:shadow-gray-900/20 active:opacity-[0.85] disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none mt-4"></button>
+    </div>
         </main>
 
-        <footer class="bg-white text-center text-sm py-4 px-10" role="contentinfo">
-            <ul class="flex flex-col md:flex-row justify-evenly list-none max-w-8xl mx-auto">
-                <li class="m-2 w-full md:w-1/3 text-center md:text-left">
-                    <a href="https://form.feathery.io/to/qx86hL" target="_blank">Submit A Card</a>
-                </li>
-                <li class="m-2 w-full md:w-1/3 text-center">
-                    Let them eat cake.
-                </li>
-                <li class="m-2 w-full md:w-1/3 text-center md:text-right">
-                    <a href="https://github.com/blockeveryone/blockeveryone/" target="_blank">Get The Code</a>
-                </li>
-            </ul>
-        </footer>
-
-        <script src="/assets/build/js/main.js?id=e942bd914beaa469b170e301d88a8618"></script>
+        <script src="/assets/build/js/main.js?id=b4b9f91524b738a46ae54a6b50d83009"></script>
 
             </body>
 </html>

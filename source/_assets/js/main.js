@@ -18,6 +18,14 @@ $.fn.center = function () {
 
 $(document).ready(function()
 {
+    let sounds = {
+        clickHeavy: new Howl({src: ['/assets/sound/click_heavy.mp3']}),
+        clickLight: new Howl({src: ['/assets/sound/click_light.mp3']}),
+        finishCard: new Howl({src: ['/assets/sound/finish_card.mp3']}),
+        openPack: new Howl({src: ['/assets/sound/open_pack.mp3']}),
+        levelUp: new Howl({src: ['/assets/sound/level_up.mp3']}),
+    };
+
     let collection = {};
     let currentId = 0;
     let currentCard = null;
@@ -108,6 +116,7 @@ $(document).ready(function()
         $('#reward-screen-level').html("Level "+(save.currentLevel + 1));
         $('#level-up-ok').html('Keep Blocking!');
         $("#reward-screen").fadeIn();
+        sounds.levelUp.play();
     }
 
     if (localStorage.getItem(saveHandle)) {
@@ -137,12 +146,14 @@ $(document).ready(function()
     });
 
     $("#save-button").click(function() {
+        sounds.clickHeavy.play();
         $(".card-wrapper").animate({left: "-=100%", opacity: 0}, 200, function() {
             $(".card-wrapper").hide();
             changeCard();
             updateCard();
             recordProgress();
             updateInterface();
+            sounds.finishCard.play();
             $("#pack-screen")
                 .show()
                 .css({opacity:0, top:0, right:"-100%"})
@@ -157,13 +168,20 @@ $(document).ready(function()
     });
 
     $("#level-up-ok").click(function() {
+        sounds.clickHeavy.play();
         $("#reward-screen").fadeOut();
     });
 
     $("#pack-screen").click(function() {
+        sounds.clickLight.play();
+        sounds.openPack.play();
         $("#pack-screen").animate({top: "+=100%"}, 500, function() {
             $("#pack-screen").hide();
         });
+    });
+
+    $(".card").click(function() {
+       sounds.clickLight.play();
     });
 });
 
